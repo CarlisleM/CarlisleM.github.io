@@ -110,6 +110,7 @@ footer {
   display:inline;
 }
 
+/*
 @media(min-width: 500px) {
   body {
     background-color: blue;
@@ -120,5 +121,5 @@ footer {
   section {
       width: 100%;
     }
-
+*/
 }
