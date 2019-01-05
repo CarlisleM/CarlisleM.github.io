@@ -1,0 +1,158 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 2. v2.0 | 20110126
+  License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* End reset */                  
+
+/* Navigation menu */
+nav {
+    font-size: 14px;
+    font-family: georgia;
+    text-align: center;
+}
+
+div {
+    width: 119px;
+    border: solid 1px;
+    padding: 10px 0;
+	display: inline-block;
+}
+
+/* Rounds corners of navigation menu */
+a:first-child div {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+a:last-child div {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+
+
+
+p {
+  background: orange;
+  font-size: 24px;
+}
+
+#food {
+  background: green;
+}
+
+
+
+
+
+.hotdog p {
+  background: brown;
+}
+.hotdog .mustard {
+  background: yellow;
+}
+
+
+
+
+.btn {
+  font-size: 16px;
+}
+.btn-danger {
+  background: red;
+}
+.btn-success {
+  background: green;
+}
+
+
+
+.count {
+  background: hsl(60, 100%, 50%);
+}
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+code {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 10px 10px;
+  text-align: center;
+}
+
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 10px 1.5%;
+}
+
+section {
+  float: left;
+  width: 47%;
+}
+
+aside {
+  float: right;
+  width: 47%;
+}
+
+footer {
+  clear: both;
+  margin-bottom: 0;
+}
