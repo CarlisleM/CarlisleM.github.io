@@ -98,6 +98,11 @@ section {
   width: 47%;
 }
 
+.scoreboar-section {
+  float: left;
+  width: 97%;
+}
+
 aside {
   float: right;
   width: 47%;
