@@ -54,7 +54,6 @@ table {
 /* Navigation menu */
 nav {
   font-size: 14px;
-  font-family: "Courier New", Courier, monospace;
   text-align: center;
 }
 
@@ -240,4 +239,16 @@ hr {
     float: left;
     width: 97%;
   }
+
+  .resume-center,
+  .about-center {
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 0px;
+    border-style: none; 
+    text-align: center;
+  }
+
 }
