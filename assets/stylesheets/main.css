@@ -251,4 +251,10 @@ hr {
     text-align: center;
   }
 
+  footer {
+    clear: both;
+    width: 100%;
+    display: inline-block;
+  }
+
 }
