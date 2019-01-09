@@ -242,19 +242,32 @@ hr {
 
   .resume-center,
   .about-center {
-    padding-left: 2%;
-    padding-right: 2%;
-    width: 100%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    width: 97%;
     margin: 0 auto;
     padding-top: 0px;
     border-style: none; 
     text-align: center;
   }
 
-  footer {
-    clear: both;
-    width: 100%;
-    display: inline-block;
+  .resume-left {
+    width: 97%;
+    margin: 0 auto;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-top: 0px;
+    text-align: left;
+    border-style: none; 
+  }
+
+  .indent-resume-points {
+    width: 97%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    text-align: left;
+    border-style: none; 
   }
 
 }
