@@ -44,25 +44,88 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-/* End reset */                  
+/* End reset */             
+
+/*
+<td><h2 style="margin-top:0px;font-family: 'Courier New', Courier, monospace">This is a heading</h2>
+<p style="margin-bottom:0px;font-family: 'Courier New', Courier, monospace">This is a paragraph</p></td>     
+*/
 
 /* Navigation menu */
 nav {
   font-size: 14px;
-  font-family: georgia;
+  font-family: "Courier New", Courier, monospace;
   text-align: center;
 }
 
+header,
+ body,
+ section,
+ aside,
+ footer {
+  font-family: "Consolas";
+}
+
 h1 {
+  padding-top: 2.5px;
+  padding-bottom: 5px;
   font-size: 20px;
 }
 
-.center{
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+
+}
+
+.sub-heading {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.sub-sub-heading {
+  padding-bottom: 5px;
+}
+
+.p-spacing {
+  padding-top: 10px;
+}
+
+.center {
     width: 15%;
     margin: 0 auto;
     padding-top: 0px;
     text-align: left;
     border-style: none; 
+}
+
+.resume-center,
+.about-center {
+  padding-left: 25%;
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 0px;
+  border-style: none; 
+  text-align: center;
+}
+
+.resume-left {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 0px;
+  text-align: left;
+  border-style: none; 
+}
+
+.indent-resume-points {
+  width: 100%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+  text-align: left;
+  border-style: none; 
 }
 
 div {
@@ -91,7 +154,6 @@ code {
   border-color: #000000;
   color: #000000;
   display: block;
-  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
   padding: 10px 10px;
   text-align: center;
 }
@@ -145,19 +207,29 @@ footer {
     opacity:0.95;
 }
 
-ul li {
-    float: left;
-}
-ul li:not(:last-child) {
+.nav-bar:not(:last-child) {
     border-right:1px solid grey;
     margin-right:20px;
     padding-right:20px;
 }
 
+ul li {
+    float: left;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 0.75em 0;
+    padding: 0;
+}
+
+
+
 
 /* Mobile CSS */
-
-
 @media(max-width: 500px) {
   section {
     float: left;
