@@ -135,6 +135,14 @@ div {
   display: inline-block;
 }
 
+.images-by-text {
+  width: 100%;
+  border: solid 5px;
+  border-color: #000000;
+  padding: 0px 0;
+  display: inline-block;
+}
+
 /* Rounds corners of navigation menu */
 a:first-child div {
     border-top-left-radius: 6px;
@@ -154,7 +162,7 @@ code {
   color: #000000;
   display: block;
   padding: 10px 10px;
-  text-align: center;
+  text-align: center; /* This line of code is centering them*/
 }
 
 header,
