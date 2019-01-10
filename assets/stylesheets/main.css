@@ -142,12 +142,14 @@ div {
   display: inline-block;
 }
 
-#Div1 {
+#single-project-text-box{
   border: none;
   display: table-cell; 
   vertical-align: middle; 
   text-align: left;
   padding-left: 20%;
+  width: 1000px;
+  height: 750px;"
 }
 
 /* Rounds corners of navigation menu */
@@ -208,6 +210,10 @@ footer {
   width: 97%;
 }
 
+.mobile-display {
+  width: 99.7%;
+}
+
 #grad1 {
     border-top-left-radius: 7px;
     border-bottom-left-radius: 7px;
@@ -238,6 +244,11 @@ hr {
     border-top: 1px solid black;
     margin: 0.75em 0;
     padding: 0;
+}
+
+.single-project-image-width {
+  width:800px;
+  padding-right: 100px;
 }
 
 
@@ -284,5 +295,23 @@ hr {
     text-align: left;
     border-style: none; 
   }
+
+  .mobile-display {
+    width: 99%;
+  }
+
+  .single-project-image-width {
+    width:100%;
+  }
+
+  #single-project-text-box{
+  border: none;
+  display: table-cell; 
+  vertical-align: middle; 
+  text-align: left;
+  padding-left: 20%;
+  width: 100%;
+  height: 100%;"
+}
 
 }
