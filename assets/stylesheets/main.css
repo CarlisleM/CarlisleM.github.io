@@ -76,7 +76,7 @@ h2 {
 }
 
 h3 {
-
+  font-size: 30px;
 }
 
 .sub-heading {
@@ -244,6 +244,24 @@ hr {
     border-top: 1px solid black;
     margin: 0.75em 0;
     padding: 0;
+}
+
+.HomeContent {
+  width: 70%;
+  float: left;
+  border: none;
+  border-right: 2px solid black;
+  margin-left: 1.5%;
+}
+
+.HomeSidebar {
+  border: none;
+  height: 100%;
+  padding-left: 1%;
+  left: 70%;
+  width: 25%;
+  float: right;
+  margin-right: 1.5%;
 }
 
 .single-project-image-width {
