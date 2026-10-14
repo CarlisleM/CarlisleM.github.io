@@ -8,8 +8,8 @@ Everything personal lives in `src/config/`:
 
 | File | What it holds |
 |---|---|
-| `site.ts` | Name, Roblox user ID (for the avatar), tagline, bio, socials, services, skills, GitHub repo |
-| `games.ts` | Each game's place ID and `owned` / `contributed` / `brand`; optional `role`, `blurb`, `tags`, `name` (for games Roblox hides from the public API) and `spotlight` (featured card with a record CCU) |
+| `site.ts` | Name, role, company, location, Roblox user ID (for the avatar), tagline, bio, socials, services, skills, GitHub repo |
+| `games.ts` | Each game's place ID and `owned` / `contributed` / `brand`; optional `blurb`, `tags`, `name` (for games Roblox hides from the public API) and `spotlight` (featured card with a record CCU) |
 | `brands.ts` | Brands and studios for the logo marquee; `logo` can be a path in `public/` |
 
 Game names, thumbnails, icons, visits, favorites, ratings and CCU all come from Roblox automatically.

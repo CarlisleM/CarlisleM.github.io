@@ -17,7 +17,7 @@ const filters: { id: Filter; label: string }[] = [
 
 const ownershipBadge: Record<Ownership, string> = {
   owned: 'My game',
-  contributed: 'Developer',
+  contributed: 'Worked on',
   brand: 'Brand',
 }
 
@@ -34,7 +34,7 @@ export function Games({ views }: { views: GameView[] }) {
   return (
     <section id="games" className="mx-auto max-w-6xl px-5 py-24">
       <div className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
-        <SectionHeading eyebrow="Portfolio" title="Games I’ve built & shipped">
+        <SectionHeading eyebrow="Portfolio" title="Games I’ve worked on">
           Live numbers pulled straight from Roblox, refreshed automatically.
         </SectionHeading>
         <div className="mb-12 inline-flex self-start overflow-x-auto rounded-full border border-line bg-panel p-1 md:self-auto">
@@ -83,7 +83,6 @@ export function Games({ views }: { views: GameView[] }) {
 function GameCard({ view, index }: { view: GameView; index: number }) {
   const { stats } = view
   const playing = stats?.playing ?? 0
-  const subtitle = view.role ?? stats?.creator
 
   return (
     <motion.a
@@ -128,7 +127,6 @@ function GameCard({ view, index }: { view: GameView; index: number }) {
           </div>
           <div className="min-w-0 flex-1 pb-0.5">
             <h3 className="truncate font-display text-lg font-bold text-white">{view.title}</h3>
-            {subtitle && <p className="truncate text-xs text-zinc-500">{subtitle}</p>}
           </div>
           <ArrowUpRight className="mb-1 size-5 shrink-0 text-zinc-600 transition group-hover:translate-x-0.5 group-hover:-translate-y-0.5 group-hover:text-accent" />
         </div>

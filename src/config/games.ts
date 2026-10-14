@@ -9,7 +9,6 @@ export type GameEntry = {
   placeId: number
   ownership: Ownership
   name?: string
-  role?: string
   blurb?: string
   tags?: string[]
   spotlight?: Spotlight
@@ -46,7 +45,6 @@ export const games: GameEntry[] = [
   { placeId: 85622629241634, ownership: 'contributed' },
   { placeId: 133627020051654, ownership: 'contributed' },
   { placeId: 110404078250920, ownership: 'contributed' },
-  { placeId: 4936591712, ownership: 'contributed', name: 'SPLASH Skate & Music' },
   { placeId: 18305220295, ownership: 'contributed' },
   { placeId: 15364195813, ownership: 'contributed' },
   { placeId: 71344980160819, ownership: 'contributed' },

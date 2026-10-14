@@ -64,7 +64,13 @@ export function Hero({ views, totals, avatarUrl, updatedAt }: HeroProps) {
             <p className="font-semibold text-white">
               {site.name} <span className="font-normal text-zinc-500">· {site.fullName}</span>
             </p>
-            <p className="text-zinc-500">{site.role}</p>
+            <p className="text-zinc-500">
+              {site.role} at{' '}
+              <a href={site.company.href} target="_blank" rel="noreferrer" className="text-zinc-300 transition hover:text-accent">
+                {site.company.name}
+              </a>{' '}
+              · {site.location}
+            </p>
           </div>
           <div className="ml-2 hidden gap-1 sm:flex">
             {site.socials.map((social) => (

@@ -19,6 +19,8 @@ export const site: {
   fullName: string
   robloxUserId?: number
   role: string
+  company: { name: string; href: string }
+  location: string
   headline: [string, string, string]
   tagline: string
   bio: string[]
@@ -30,12 +32,16 @@ export const site: {
 } = {
   name: 'Kami',
   fullName: 'Carlisle Miller',
-  role: 'Roblox Developer',
+  robloxUserId: 2249165880,
+  role: 'Lead Engineer',
+  company: { name: 'Misfits Gaming', href: 'https://misfitsgaming.gg/' },
+  location: 'Los Angeles, CA',
   headline: ['Building Roblox games', 'millions', 'come back to.'],
   tagline:
-    'I’m Kami — a Roblox developer behind hits like Steal An Egg, brand experiences for Warner Bros., Paramount and Maybelline, and a growing slate of my own games.',
+    'I’m Kami — Lead Engineer at Misfits Gaming. I’ve worked on hits like Steal An Egg, brand experiences for Warner Bros., Paramount and Maybelline, and my own games.',
   bio: [
-    'I’ve worked on more than 25 Roblox games, including Steal An Egg, which peaked at 14.3 million concurrent players — the 4th highest CCU in gaming history.',
+    'Originally from Brisbane, Australia and now based in Los Angeles, I’m the Lead Engineer at Misfits Gaming.',
+    'I’ve worked on more than 25 Roblox games — most of them acquisitions, where I come in as an engineer to help improve and grow them. That includes Steal An Egg, which peaked at 14.3 million concurrent players, the 4th highest CCU in gaming history.',
     'Alongside that I build brand integrations and activations for names like Chupa Chups, Zuru, Maybelline, Paramount, Warner Bros. Pictures, Juicy Drop and Regal Cinemas, and develop my own games including Demonbound and Sea Battle!',
   ],
   availability: 'Open to commissions & partnerships',
@@ -46,6 +52,7 @@ export const site: {
   socials: [
     { kind: 'discord', label: 'Discord', handle: 'kamimelee', copy: 'kamimelee' },
     { kind: 'x', label: 'X', handle: '@KamiMakesGames', href: 'https://x.com/KamiMakesGames' },
+    { kind: 'roblox', label: 'Roblox', handle: 'QuestioningCarl', href: 'https://www.roblox.com/users/2249165880/profile' },
     { kind: 'linkedin', label: 'LinkedIn', handle: 'Carlisle Miller', href: 'https://www.linkedin.com/in/carlisle-miller-b11630172/' },
     { kind: 'github', label: 'GitHub', handle: 'CarlisleM', href: 'https://github.com/CarlisleM' },
   ],
