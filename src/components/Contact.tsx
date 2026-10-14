@@ -1,50 +1,43 @@
 import { ArrowUpRight, Check, Copy } from 'lucide-react'
 import { site } from '../config/site'
 import { timeAgo } from '../lib/format'
-import { Reveal, SocialIcon, SocialLink } from './ui'
+import { Reveal, SectionHeading, SocialIcon, SocialLink } from './ui'
 
 export function Contact() {
   return (
-    <section id="contact" className="mx-auto max-w-6xl px-5 py-24">
-      <Reveal className="relative overflow-hidden rounded-[2rem] border border-line bg-panel px-6 py-16 text-center sm:px-12 sm:py-20">
-        <div aria-hidden className="absolute -top-32 left-1/2 h-64 w-[36rem] -translate-x-1/2 rounded-full bg-accent/20 blur-[100px]" />
-        <p className="relative font-mono text-xs font-medium tracking-[0.2em] text-accent uppercase">Contact</p>
-        <h2 className="relative mx-auto mt-4 max-w-2xl font-display text-4xl font-bold tracking-tight text-balance text-white sm:text-6xl">
-          Let’s talk Roblox.
-        </h2>
-        <p className="relative mx-auto mt-5 max-w-lg text-lg text-zinc-400">
-          Discord is the fastest way to reach me.
-        </p>
-        <div className="relative mx-auto mt-10 grid max-w-3xl gap-3 sm:grid-cols-2">
-          {site.socials.map((social) => (
-            <SocialLink
-              key={social.kind}
-              social={social}
-              className="group flex cursor-pointer items-center gap-4 rounded-2xl border border-line bg-ink/60 p-4 text-left transition hover:border-accent/50"
-            >
-              {(copied) => (
-                <>
-                  <span className="grid size-11 place-items-center rounded-xl bg-raised text-zinc-300 transition group-hover:bg-accent group-hover:text-ink">
-                    <SocialIcon kind={social.kind} />
-                  </span>
-                  <span className="flex-1">
-                    <span className="block font-semibold text-white">{social.label}</span>
-                    <span className="block text-sm text-zinc-500">{copied ? 'Copied to clipboard' : social.handle}</span>
-                  </span>
-                  {social.copy ? (
-                    copied ? (
-                      <Check className="size-5 text-accent" />
-                    ) : (
-                      <Copy className="size-5 text-zinc-600 transition group-hover:text-accent" />
-                    )
+    <section id="contact" className="mx-auto max-w-6xl px-5 pt-32 pb-24">
+      <SectionHeading index="06" eyebrow="Contact" title="Let’s talk Roblox.">
+        Discord is the fastest way to reach me.
+      </SectionHeading>
+      <Reveal className="border-t-2 border-line">
+        {site.socials.map((social) => (
+          <SocialLink
+            key={social.kind}
+            social={social}
+            className="group flex w-full cursor-pointer items-center gap-5 border-b-2 border-line px-2 py-5 text-left transition-colors duration-200 hover:bg-volt sm:px-4"
+          >
+            {(copied) => (
+              <>
+                <SocialIcon kind={social.kind} className="size-6 text-muted transition-colors group-hover:text-ink" />
+                <span className="flex-1 font-display text-2xl font-bold tracking-tight text-cream transition-colors group-hover:text-ink sm:text-4xl">
+                  {social.label}
+                </span>
+                <span className="hidden font-mono text-sm text-muted transition-colors group-hover:text-ink sm:inline">
+                  {copied ? 'Copied!' : social.handle}
+                </span>
+                {social.copy ? (
+                  copied ? (
+                    <Check className="size-6 text-ink" />
                   ) : (
-                    <ArrowUpRight className="size-5 text-zinc-600 transition group-hover:text-accent" />
-                  )}
-                </>
-              )}
-            </SocialLink>
-          ))}
-        </div>
+                    <Copy className="size-6 text-muted transition-colors group-hover:text-ink" />
+                  )
+                ) : (
+                  <ArrowUpRight className="size-6 text-muted transition group-hover:rotate-45 group-hover:text-ink" />
+                )}
+              </>
+            )}
+          </SocialLink>
+        ))}
       </Reveal>
     </section>
   )
@@ -52,13 +45,18 @@ export function Contact() {
 
 export function Footer({ updatedAt, failed }: { updatedAt?: string; failed: boolean }) {
   return (
-    <footer className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-5 py-10 text-sm text-zinc-600 sm:flex-row">
-      <p>
-        © {new Date().getFullYear()} {site.fullName}. Not affiliated with Roblox Corporation.
-      </p>
-      <p className="font-mono text-xs">
-        {failed ? 'Stats unavailable' : updatedAt ? `Stats updated ${timeAgo(updatedAt)}` : 'Loading stats…'}
-      </p>
+    <footer className="border-t-2 border-line">
+      <div className="mx-auto max-w-6xl overflow-hidden px-5 pt-12">
+        <p className="font-display text-[clamp(4rem,22vw,17rem)] leading-[0.8] font-black tracking-tighter text-panel uppercase select-none">
+          {site.name}
+        </p>
+      </div>
+      <div className="mx-auto flex max-w-6xl flex-col justify-between gap-3 px-5 py-6 font-mono text-[11px] tracking-wider text-muted uppercase sm:flex-row">
+        <p>
+          © {new Date().getFullYear()} {site.fullName} · Not affiliated with Roblox
+        </p>
+        <p>{failed ? 'Stats unavailable' : updatedAt ? `Stats updated ${timeAgo(updatedAt)}` : 'Loading stats…'}</p>
+      </div>
     </footer>
   )
 }

@@ -1,27 +1,42 @@
 @import 'tailwindcss';
 
 @theme {
-  --font-display: 'Bricolage Grotesque', ui-sans-serif, system-ui, sans-serif;
-  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
-  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  --font-display: 'Unbounded', ui-sans-serif, system-ui, sans-serif;
+  --font-sans: 'Geist', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, monospace;
 
-  --color-ink: #07080b;
-  --color-panel: #0d0f14;
-  --color-raised: #12151c;
-  --color-line: #1c202a;
-  --color-accent: #5ef0a0;
-  --color-accent-2: #5cc8ff;
+  --color-ink: #0c0b09;
+  --color-panel: #14120f;
+  --color-raised: #1d1b17;
+  --color-line: #2b2822;
+  --color-cream: #f2ede3;
+  --color-muted: #9b9384;
+  --color-volt: #ffd400;
+  --color-signal: #ff4b36;
 
-  --animate-marquee: marquee 40s linear infinite;
   --animate-ping-slow: ping 2s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
 
-  @keyframes marquee {
-    from {
-      transform: translateX(0);
-    }
-    to {
-      transform: translateX(-50%);
-    }
+@utility studs {
+  background-image: radial-gradient(rgb(242 237 227 / 0.07) 1.3px, transparent 1.8px);
+  background-size: 22px 22px;
+}
+
+@utility brick {
+  box-shadow: 4px 4px 0 0 var(--color-cream);
+  transition:
+    translate 150ms ease,
+    box-shadow 150ms ease,
+    background-color 150ms ease;
+
+  &:hover {
+    translate: 2px 2px;
+    box-shadow: 2px 2px 0 0 var(--color-cream);
+  }
+
+  &:active {
+    translate: 4px 4px;
+    box-shadow: 0 0 0 0 var(--color-cream);
   }
 }
 
@@ -33,19 +48,15 @@ html {
 }
 
 body {
-  @apply bg-ink font-sans text-zinc-300 antialiased;
+  @apply bg-ink font-sans text-cream antialiased;
 }
 
 ::selection {
-  @apply bg-accent text-ink;
+  @apply bg-volt text-ink;
 }
 
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
-  }
-
-  .animate-marquee {
-    animation: none;
   }
 }

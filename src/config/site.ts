@@ -8,6 +8,21 @@ export type Social = {
   copy?: string
 }
 
+export type Experience = {
+  company: string
+  role?: string
+  period?: string
+  summary?: string
+  href?: string
+  roblox: boolean
+}
+
+export type Research = {
+  kind: string
+  title: string
+  href?: string
+}
+
 export type Service = {
   title: string
   description: string
@@ -21,9 +36,11 @@ export const site: {
   role: string
   company: { name: string; href: string }
   location: string
-  headline: [string, string, string]
   tagline: string
   bio: string[]
+  resumeUrl?: string
+  experience: Experience[]
+  research: Research[]
   github: { owner: string; repo: string }
   socials: Social[]
   services: Service[]
@@ -35,14 +52,24 @@ export const site: {
   role: 'Lead Engineer',
   company: { name: 'Misfits Gaming', href: 'https://misfitsgaming.gg/' },
   location: 'Los Angeles, CA',
-  headline: ['Building Roblox games', 'millions', 'come back to.'],
   tagline:
-    'I’m Kami — Lead Engineer at Misfits Gaming. I’ve worked on hits like Steal An Egg, brand experiences for Warner Bros., Paramount and Maybelline, and my own games.',
+    'I’m Kami, Lead Engineer at Misfits Gaming. I jump into Roblox games — mostly acquisitions — and help them grow, from Steal An Egg to brand worlds for Warner Bros., Paramount and Maybelline.',
   bio: [
     'Originally from Brisbane, Australia and now based in Los Angeles, I’m the Lead Engineer at Misfits Gaming.',
     'I’ve worked on more than 25 Roblox games — most of them acquisitions, where I come in as an engineer to help improve and grow them. That includes Steal An Egg, which peaked at 14.3 million concurrent players, the 4th highest CCU in gaming history.',
     'Alongside that I build brand integrations and activations for names like Chupa Chups, Zuru, Maybelline, Paramount, Warner Bros. Pictures, Juicy Drop and Regal Cinemas, and develop my own games including Demonbound and Sea Battle!',
   ],
+  experience: [
+    {
+      company: 'Misfits Gaming',
+      role: 'Lead Engineer',
+      href: 'https://misfitsgaming.gg/',
+      roblox: true,
+    },
+    { company: 'Coin Crew Games', roblox: false },
+    { company: 'Codafication', roblox: false },
+  ],
+  research: [{ kind: 'Thesis', title: 'Automated droplet systems' }],
   github: {
     owner: 'CarlisleM',
     repo: 'CarlisleM.github.io',

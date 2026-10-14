@@ -12,6 +12,7 @@ export type GameEntry = {
   blurb?: string
   tags?: string[]
   spotlight?: Spotlight
+  misfitsIp?: boolean
 }
 
 export const games: GameEntry[] = [
@@ -45,8 +46,8 @@ export const games: GameEntry[] = [
   { placeId: 85622629241634, ownership: 'contributed' },
   { placeId: 133627020051654, ownership: 'contributed' },
   { placeId: 110404078250920, ownership: 'contributed' },
-  { placeId: 18305220295, ownership: 'contributed' },
-  { placeId: 15364195813, ownership: 'contributed' },
+  { placeId: 18305220295, ownership: 'contributed', misfitsIp: true },
+  { placeId: 15364195813, ownership: 'contributed', misfitsIp: true },
   { placeId: 71344980160819, ownership: 'contributed' },
   { placeId: 109243958755522, ownership: 'contributed' },
 
