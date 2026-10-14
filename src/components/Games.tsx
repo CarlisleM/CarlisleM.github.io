@@ -54,7 +54,7 @@ export function Games({ views }: { views: GameView[] }) {
   return (
     <section id="games" className="mx-auto max-w-6xl px-5 pt-28">
       <SectionHeading index="02" eyebrow="Games" title="Games I’ve worked on." aside={filterBar}>
-        Live numbers pulled straight from Roblox every 30 minutes.
+        Live numbers pulled straight from Roblox, refreshed through the day.
       </SectionHeading>
       <motion.div layout className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         <AnimatePresence mode="popLayout">

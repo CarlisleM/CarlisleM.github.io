@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - src/config/games.ts
+      - src/config/site.ts
+      - scripts/fetch-stats.ts
+      - .github/workflows/stats.yml
 
 permissions:
   contents: write

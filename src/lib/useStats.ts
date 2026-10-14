@@ -53,15 +53,17 @@ export function useStats() {
 
   const views = useMemo<GameView[]>(
     () =>
-      games.map((game) => {
-        const stats = data?.games[game.placeId]
-        return {
-          ...game,
-          stats,
-          title: game.name ?? (stats ? cleanGameName(stats.name) : data ? 'Unavailable' : 'Loading…'),
-          url: `https://www.roblox.com/games/${game.placeId}`,
-        }
-      }),
+      games
+        .filter((game) => !data || game.name || data.games[game.placeId])
+        .map((game) => {
+          const stats = data?.games[game.placeId]
+          return {
+            ...game,
+            stats,
+            title: game.name ?? (stats ? cleanGameName(stats.name) : 'Loading…'),
+            url: `https://www.roblox.com/games/${game.placeId}`,
+          }
+        }),
     [data],
   )
 
@@ -72,9 +74,9 @@ export function useStats() {
           visits: sum.visits + (view.stats?.visits ?? 0),
           playing: sum.playing + (view.stats?.playing ?? 0),
           favorites: sum.favorites + (view.stats?.favorites ?? 0),
-          count: sum.count + 1,
+          count: sum.count,
         }),
-        { visits: 0, playing: 0, favorites: 0, count: 0 },
+        { visits: 0, playing: 0, favorites: 0, count: games.length },
       ),
     [views],
   )

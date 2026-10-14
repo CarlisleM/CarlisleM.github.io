@@ -16,7 +16,7 @@ Game names, thumbnails, icons, visits, favorites, ratings and CCU all come from 
 
 ## How stats work
 
-`.github/workflows/stats.yml` runs every 30 minutes on GitHub Actions (free and unlimited on public repos). It runs `scripts/fetch-stats.ts`, which:
+`.github/workflows/stats.yml` runs on GitHub Actions (free and unlimited on public repos). It is scheduled every 30 minutes, though GitHub often delays scheduled runs to every few hours, and it also runs whenever `games.ts`, `site.ts` or the stats script is pushed. It runs `scripts/fetch-stats.ts`, which:
 
 - reads current players, visits, favorites and votes for every game in `games.ts`
 - keeps an all-time peak CCU (the highest value it has ever sampled) and a 120-day daily history
