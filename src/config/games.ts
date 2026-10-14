@@ -1,4 +1,4 @@
-export type Ownership = 'owned' | 'contributed' | 'brand'
+export type Ownership = 'owned' | 'contributed' | 'brand' | 'integration'
 
 export type Spotlight = {
   peakCcu: number
@@ -50,9 +50,25 @@ export const games: GameEntry[] = [
   { placeId: 15364195813, ownership: 'contributed', misfitsIp: true },
   { placeId: 71344980160819, ownership: 'contributed' },
   { placeId: 109243958755522, ownership: 'contributed' },
+  { placeId: 122576696342824, ownership: 'contributed' },
+  { placeId: 82208825713916, ownership: 'contributed' },
+  { placeId: 140302982046391, ownership: 'contributed' },
+  { placeId: 78724049937437, ownership: 'contributed' },
+  { placeId: 105031185134358, ownership: 'contributed' },
+  { placeId: 115815718131154, ownership: 'contributed' },
+  { placeId: 129559579789369, ownership: 'contributed' },
+  { placeId: 103754275310547, ownership: 'contributed' },
 
   { placeId: 15536298749, ownership: 'brand' },
   { placeId: 14618379101, ownership: 'brand' },
   { placeId: 92145969552720, ownership: 'brand' },
   { placeId: 138038324020217, ownership: 'brand' },
+
+  { placeId: 87876279581635, ownership: 'integration' },
+  { placeId: 79536652954455, ownership: 'integration' },
+  { placeId: 75917364083659, ownership: 'integration' },
+  { placeId: 94682676231618, ownership: 'integration' },
+  { placeId: 133968315607063, ownership: 'integration' },
+  { placeId: 87311102000285, ownership: 'integration' },
+  { placeId: 81535567274521, ownership: 'integration' },
 ]

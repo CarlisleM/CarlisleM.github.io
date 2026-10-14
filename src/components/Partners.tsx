@@ -12,7 +12,7 @@ export function Partners({ views }: { views: GameView[] }) {
     <section id="partners" className="mx-auto max-w-6xl px-5 pt-32">
       <SectionHeading index="03" eyebrow="Partners" title="Brands & creators I’ve built with." />
 
-      <Reveal className="grid grid-cols-2 border-t-2 border-l-2 border-line lg:grid-cols-4">
+      <Reveal className="grid grid-cols-2 border-t-2 border-l-2 border-line md:grid-cols-5">
         {brands.map((brand, i) => (
           <BrandTile key={brand.name} brand={brand} index={i} game={brand.placeId ? byPlace.get(brand.placeId) : undefined} />
         ))}
@@ -44,9 +44,9 @@ export function Partners({ views }: { views: GameView[] }) {
                 <div className="aspect-video overflow-hidden bg-raised">
                   {view.stats?.thumbnailUrl && <img src={view.stats.thumbnailUrl} alt="" loading="lazy" className="size-full object-cover" />}
                 </div>
-                <div className="flex items-center justify-between gap-2 p-3">
-                  <span className="truncate font-display text-sm font-bold text-cream">{view.title}</span>
-                  <span className="shrink-0 font-mono text-[11px] text-muted">
+                <div className="p-3">
+                  <span className="block truncate font-display text-sm font-bold text-cream">{view.title}</span>
+                  <span className="mt-1 block font-mono text-[11px] text-muted">
                     {view.stats ? `${formatCompact(view.stats.visits)} visits` : ''}
                   </span>
                 </div>

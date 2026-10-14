@@ -19,6 +19,8 @@ export const brands: Partner[] = [
   { name: 'Zuru', work: 'Integration & activation' },
   { name: 'Regal Cinemas', work: 'Integration & activation' },
   { name: 'Juicy Drop', work: 'Integration & activation' },
+  { name: 'American Egg Board', work: 'Integration & activation' },
+  { name: 'Kids Help Phone', work: 'Integration & activation' },
 ]
 
 export const creatorCollab: CreatorCollab = {

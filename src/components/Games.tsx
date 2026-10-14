@@ -6,7 +6,7 @@ import { formatCompact, formatRating } from '../lib/format'
 import type { GameView } from '../lib/useStats'
 import { LiveDot, SectionHeading, easeOut } from './ui'
 
-type Filter = 'all' | Ownership
+type Filter = 'all' | Exclude<Ownership, 'integration'>
 
 const filters: { id: Filter; label: string }[] = [
   { id: 'all', label: 'All' },
@@ -18,7 +18,8 @@ const filters: { id: Filter; label: string }[] = [
 const ownershipBadge: Record<Ownership, string> = {
   owned: 'My game',
   contributed: 'Worked on',
-  brand: 'Brand',
+  brand: 'Brand game',
+  integration: 'Integration',
 }
 
 const collapsedCount = 9
@@ -27,7 +28,7 @@ export function Games({ views }: { views: GameView[] }) {
   const [filter, setFilter] = useState<Filter>('all')
   const [expanded, setExpanded] = useState(false)
   const matching = views
-    .filter((view) => filter === 'all' || view.ownership === filter)
+    .filter((view) => filter === 'all' || view.ownership === filter || (filter === 'brand' && view.ownership === 'integration'))
     .sort((a, b) => (b.stats?.visits ?? 0) - (a.stats?.visits ?? 0))
   const shown = expanded ? matching : matching.slice(0, collapsedCount)
 
