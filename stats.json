@@ -1,0 +1,4785 @@
+{
+  "updatedAt": "2026-10-31T11:07:47.133Z",
+  "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A5615B53A2E2980509FB95088FF8F8E1-Png/420/420/AvatarHeadshot/Png/noFilter",
+  "games": {
+    "107778070777162": {
+      "universeId": 10563114921,
+      "name": "Steal An Egg",
+      "creator": "and Collect Rare Pets",
+      "playing": 1396223,
+      "visits": 9986493748,
+      "favorites": 9039308,
+      "upVotes": 3935876,
+      "downVotes": 362680,
+      "created": "2026-07-25T07:50:51.492Z",
+      "updated": "2026-10-31T09:17:44.56Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-840d9bd2f30d9ffdead858eab151e703/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-875b2a6dc156ce6dd64eb637e73238ce/768/432/Image/Png/noFilter",
+      "peakCcu": 4441878,
+      "peakCcuAt": "2026-10-24T14:49:06.575Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 1452318,
+          "visits": 8098005983
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 1495330,
+          "visits": 8204166939
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1698751,
+          "visits": 8316046181
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 3301844,
+          "visits": 8535050926
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 1836274,
+          "visits": 8674916110
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 1449951,
+          "visits": 8777767877
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 1332363,
+          "visits": 8879065781
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 1204378,
+          "visits": 8969151598
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 1368262,
+          "visits": 9059612683
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 1378820,
+          "visits": 9170577357
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 4441878,
+          "visits": 9349252032
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 1554453,
+          "visits": 9478922620
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 1204404,
+          "visits": 9562949704
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 1182656,
+          "visits": 9653440090
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 1343246,
+          "visits": 9758918228
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 1086629,
+          "visits": 9839385167
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 1246252,
+          "visits": 9936370964
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 1396223,
+          "visits": 9986493748
+        }
+      ]
+    },
+    "119965518619123": {
+      "universeId": 10768971553,
+      "name": "[🎃 HALLOWEEN] Demonbound",
+      "creator": "Demonbound Order",
+      "playing": 1,
+      "visits": 17327,
+      "favorites": 127,
+      "upVotes": 37,
+      "downVotes": 8,
+      "created": "2026-10-02T10:50:02.898Z",
+      "updated": "2026-10-24T14:28:47.711Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-b55f02284f7c5d62863c0fa63ea542c2/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-07ea495485493e3d9c9d1e1b29c4b7f1/768/432/Image/Png/noFilter",
+      "peakCcu": 17,
+      "peakCcuAt": "2026-10-17T16:36:53.835Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 1,
+          "visits": 1498
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 2,
+          "visits": 1625
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 2,
+          "visits": 1731
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 17,
+          "visits": 3400
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 9,
+          "visits": 4947
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 11,
+          "visits": 6824
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 7,
+          "visits": 8399
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 10,
+          "visits": 10096
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 10,
+          "visits": 11752
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 14,
+          "visits": 13346
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 14,
+          "visits": 14988
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 6,
+          "visits": 16028
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 5,
+          "visits": 16846
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 6,
+          "visits": 17190
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 1,
+          "visits": 17243
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 17286
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 17312
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 1,
+          "visits": 17327
+        }
+      ]
+    },
+    "77780955683759": {
+      "universeId": 10769258749,
+      "name": "[🏴‍☠️ W6] +1 Snowball Rolling ❄️",
+      "creator": "Snow Day Studio",
+      "playing": 10,
+      "visits": 28682,
+      "favorites": 64,
+      "upVotes": 9,
+      "downVotes": 3,
+      "created": "2026-10-04T02:35:27.095Z",
+      "updated": "2026-10-26T04:24:25.18Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-0267e51c906c0ac5b193a2ad1ba682ee/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-63455494310b26ccd8d5053c79cdee7d/768/432/Image/Png/noFilter",
+      "peakCcu": 18,
+      "peakCcuAt": "2026-10-28T19:02:32.297Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 2,
+          "visits": 998
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 0,
+          "visits": 1073
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1,
+          "visits": 1137
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 3,
+          "visits": 1336
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 4,
+          "visits": 1514
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 11,
+          "visits": 3024
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 10,
+          "visits": 4887
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 8,
+          "visits": 6670
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 10,
+          "visits": 8569
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 13,
+          "visits": 10951
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 15,
+          "visits": 13346
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 14,
+          "visits": 15676
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 10,
+          "visits": 17453
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 14,
+          "visits": 19695
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 18,
+          "visits": 22405
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 12,
+          "visits": 24743
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 11,
+          "visits": 27565
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 10,
+          "visits": 28682
+        }
+      ]
+    },
+    "108442042267736": {
+      "universeId": 10769257897,
+      "name": "[🎃 W6] +1 Paper Plane Flight ✈️",
+      "creator": "Paper Plane Club",
+      "playing": 14,
+      "visits": 46388,
+      "favorites": 115,
+      "upVotes": 13,
+      "downVotes": 5,
+      "created": "2026-10-04T02:26:17.014Z",
+      "updated": "2026-10-26T04:24:01.127Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-f4d3561f778f0ee936340e802977ad4c/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-a802336be702450a7892be0c85d792be/768/432/Image/Png/noFilter",
+      "peakCcu": 50,
+      "peakCcuAt": "2026-10-21T14:59:47.742Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 1,
+          "visits": 907
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 2,
+          "visits": 982
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 0,
+          "visits": 1032
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 2,
+          "visits": 1152
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 45,
+          "visits": 8035
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 44,
+          "visits": 13455
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 39,
+          "visits": 17694
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 50,
+          "visits": 21584
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 41,
+          "visits": 25640
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 36,
+          "visits": 28850
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 20,
+          "visits": 31649
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 33,
+          "visits": 34355
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 19,
+          "visits": 36138
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 16,
+          "visits": 38136
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 26,
+          "visits": 40483
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 20,
+          "visits": 42511
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 32,
+          "visits": 45208
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 21,
+          "visits": 46388
+        }
+      ]
+    },
+    "124822748780975": {
+      "universeId": 10514855454,
+      "name": "Sea Battle!",
+      "creator": "High Seas Studio",
+      "playing": 0,
+      "visits": 22633,
+      "favorites": 122,
+      "upVotes": 55,
+      "downVotes": 32,
+      "created": "2026-07-16T21:11:35.689Z",
+      "updated": "2026-08-26T16:47:20.16Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-084534967ca791c934075f250eac60d4/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-b48ddfd12ab9a8f45ac19e044e2a2d91/768/432/Image/Png/noFilter",
+      "peakCcu": 0,
+      "peakCcuAt": "2026-10-14T10:36:34.140Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 0,
+          "visits": 22551
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 0,
+          "visits": 22553
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 0,
+          "visits": 22556
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 0,
+          "visits": 22558
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 0,
+          "visits": 22561
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 0,
+          "visits": 22562
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 0,
+          "visits": 22562
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 0,
+          "visits": 22563
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 0,
+          "visits": 22564
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 0,
+          "visits": 22566
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 0,
+          "visits": 22566
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 0,
+          "visits": 22572
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 0,
+          "visits": 22572
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 0,
+          "visits": 22576
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 0,
+          "visits": 22584
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 22603
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 22616
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 22633
+        }
+      ]
+    },
+    "113748320871272": {
+      "universeId": 10772139438,
+      "name": "Dinosaur Training 🦖",
+      "creator": "Jurassic Joyride",
+      "playing": 0,
+      "visits": 279,
+      "favorites": 1,
+      "upVotes": 2,
+      "downVotes": 0,
+      "created": "2026-10-20T20:50:23.21Z",
+      "updated": "2026-10-26T06:02:06.019Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-aea2939b68df9bf97ef34cf311bbdb67/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-3ee168701c8a4993a4146e6035c705c0/768/432/Image/Png/noFilter",
+      "peakCcu": 0,
+      "peakCcuAt": "2026-10-30T10:20:13.475Z",
+      "history": [
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 269
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 279
+        }
+      ]
+    },
+    "105011592530400": {
+      "universeId": 10741654282,
+      "name": "Build and Kill Zombies",
+      "creator": "Zombie Car Crusher",
+      "playing": 2758,
+      "visits": 62319364,
+      "favorites": 1309860,
+      "upVotes": 290448,
+      "downVotes": 6021,
+      "created": "2026-08-19T17:39:39.912Z",
+      "updated": "2026-10-26T17:20:40.314Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-0ad14f70a46067cd8f517e749fdcbee1/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-a85fc6208f8935027bb33ef1c3dafca5/768/432/Image/Png/noFilter",
+      "peakCcu": 23557,
+      "peakCcuAt": "2026-10-24T14:49:06.575Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 11266,
+          "visits": 54894067
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 12823,
+          "visits": 55514293
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 14453,
+          "visits": 56146844
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 20051,
+          "visits": 57286921
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 15298,
+          "visits": 58102038
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 8876,
+          "visits": 58643608
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 8997,
+          "visits": 59130928
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 6804,
+          "visits": 59512884
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 6984,
+          "visits": 59864867
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 6608,
+          "visits": 60234103
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 23557,
+          "visits": 60817640
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 6361,
+          "visits": 61246654
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 3625,
+          "visits": 61488939
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 3136,
+          "visits": 61699011
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 3039,
+          "visits": 61885806
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 2350,
+          "visits": 62040617
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 2607,
+          "visits": 62225133
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 2758,
+          "visits": 62319364
+        }
+      ]
+    },
+    "94640181989498": {
+      "universeId": 10338952197,
+      "name": "Grow a Chicken Fighter",
+      "creator": "Grow a Chicken Fighter",
+      "playing": 3298,
+      "visits": 122482647,
+      "favorites": 7402395,
+      "upVotes": 394033,
+      "downVotes": 9056,
+      "created": "2026-06-16T14:59:20.172Z",
+      "updated": "2026-10-25T14:43:22.2Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-7bf6aff87e8e1af8a8e1b40c0e65d9ce/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-e1e31c25c4251b203177f11498630ccc/768/432/Image/Png/noFilter",
+      "peakCcu": 6780,
+      "peakCcuAt": "2026-10-25T04:15:18.812Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 3842,
+          "visits": 118455596
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 3954,
+          "visits": 118681806
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 3886,
+          "visits": 118885452
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 4576,
+          "visits": 119170065
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 5122,
+          "visits": 119412323
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 4678,
+          "visits": 119633447
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 3439,
+          "visits": 119853363
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 3181,
+          "visits": 120036100
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 3442,
+          "visits": 120226650
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 4792,
+          "visits": 120475885
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 6484,
+          "visits": 120843037
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 6780,
+          "visits": 121189843
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 4820,
+          "visits": 121431623
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 4554,
+          "visits": 121676355
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 4807,
+          "visits": 121927315
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 3133,
+          "visits": 122128909
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 4077,
+          "visits": 122363382
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 4062,
+          "visits": 122482647
+        }
+      ]
+    },
+    "107646426076756": {
+      "universeId": 10039338037,
+      "name": "[🌽] Build A Ring Farm",
+      "creator": "Gamecreates",
+      "playing": 143,
+      "visits": 232235598,
+      "favorites": 2483127,
+      "upVotes": 795930,
+      "downVotes": 14523,
+      "created": "2026-04-15T12:24:44.616Z",
+      "updated": "2026-10-27T17:20:07.978Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-a649838c10d14331168f2fdbb8c2607e/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-5c24b09b1d9bdfa44deadb955fd8d2fb/768/432/Image/Png/noFilter",
+      "peakCcu": 737,
+      "peakCcuAt": "2026-10-17T16:36:53.835Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 261,
+          "visits": 231891383
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 266,
+          "visits": 231913233
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 295,
+          "visits": 231934618
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 737,
+          "visits": 231972272
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 301,
+          "visits": 231999299
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 197,
+          "visits": 232019456
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 232,
+          "visits": 232040847
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 215,
+          "visits": 232057971
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 201,
+          "visits": 232075112
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 239,
+          "visits": 232095107
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 225,
+          "visits": 232128834
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 148,
+          "visits": 232151843
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 124,
+          "visits": 232167670
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 101,
+          "visits": 232183271
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 129,
+          "visits": 232199880
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 114,
+          "visits": 232213044
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 153,
+          "visits": 232227956
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 143,
+          "visits": 232235598
+        }
+      ]
+    },
+    "136764190843219": {
+      "universeId": 9384605736,
+      "name": "[🎩] Knockout! 🐧",
+      "creator": "braxworks",
+      "playing": 994,
+      "visits": 1054627894,
+      "favorites": 17415994,
+      "upVotes": 2722054,
+      "downVotes": 111462,
+      "created": "2025-12-19T19:25:28.177Z",
+      "updated": "2026-10-22T23:51:47.135Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-161ec7a84116c5675aec656dbda59aa1/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-152a83c0bc4a22f667e0a4d5f7e51c98/768/432/Image/Png/noFilter",
+      "peakCcu": 6634,
+      "peakCcuAt": "2026-10-24T23:34:26.349Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 1444,
+          "visits": 1050765464
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 1926,
+          "visits": 1050917909
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1686,
+          "visits": 1051079995
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 2119,
+          "visits": 1051348803
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 1958,
+          "visits": 1051565911
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 2846,
+          "visits": 1051719288
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 4665,
+          "visits": 1051911355
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 2983,
+          "visits": 1052094580
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 2151,
+          "visits": 1052293076
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 3981,
+          "visits": 1052573481
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 6634,
+          "visits": 1053024879
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 5627,
+          "visits": 1053522176
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 2299,
+          "visits": 1053783579
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 2389,
+          "visits": 1054014665
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 2474,
+          "visits": 1054237674
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 1398,
+          "visits": 1054376931
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 1987,
+          "visits": 1054560308
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 994,
+          "visits": 1054627894
+        }
+      ]
+    },
+    "136407404714539": {
+      "universeId": 8834587397,
+      "name": "Find the Brainrot [648]",
+      "creator": "Find The Games World",
+      "playing": 545,
+      "visits": 579356518,
+      "favorites": 14052520,
+      "upVotes": 517918,
+      "downVotes": 42969,
+      "created": "2025-09-29T22:31:41.373Z",
+      "updated": "2026-10-25T19:59:49.433Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-072e3a3d11d700205c9af83e86fe04b3/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-8d72c6c3533f4daf4d61c11fc3e1c5c0/768/432/Image/Png/noFilter",
+      "peakCcu": 6648,
+      "peakCcuAt": "2026-10-25T17:32:29.460Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 551,
+          "visits": 577947510
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 578,
+          "visits": 578012066
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 541,
+          "visits": 578070899
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 922,
+          "visits": 578187740
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 2953,
+          "visits": 578365704
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 714,
+          "visits": 578455721
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 583,
+          "visits": 578526318
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 626,
+          "visits": 578589358
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 621,
+          "visits": 578650615
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 593,
+          "visits": 578719168
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 755,
+          "visits": 578806605
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 6648,
+          "visits": 578959934
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 884,
+          "visits": 579053027
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 655,
+          "visits": 579128511
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 752,
+          "visits": 579203320
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 519,
+          "visits": 579258577
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 571,
+          "visits": 579325448
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 545,
+          "visits": 579356518
+        }
+      ]
+    },
+    "101949297449238": {
+      "universeId": 7541395924,
+      "name": "Build An Island! 🏝️",
+      "creator": "TJim's Studio",
+      "playing": 589,
+      "visits": 190882547,
+      "favorites": 3582012,
+      "upVotes": 378572,
+      "downVotes": 16863,
+      "created": "2025-04-15T01:20:24.107Z",
+      "updated": "2026-08-13T02:27:51.099Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-90e1c17fed86c675fd8059468b2d8943/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-e1a97a5129df37ed6433421b3118cb0f/768/432/Image/Png/noFilter",
+      "peakCcu": 886,
+      "peakCcuAt": "2026-10-18T13:28:49.348Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 693,
+          "visits": 190214925
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 693,
+          "visits": 190256028
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 722,
+          "visits": 190295925
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 833,
+          "visits": 190351549
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 886,
+          "visits": 190401320
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 664,
+          "visits": 190442280
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 663,
+          "visits": 190483608
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 666,
+          "visits": 190519857
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 710,
+          "visits": 190556875
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 663,
+          "visits": 190596810
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 783,
+          "visits": 190642442
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 795,
+          "visits": 190687658
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 659,
+          "visits": 190721826
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 609,
+          "visits": 190758779
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 576,
+          "visits": 190797102
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 654,
+          "visits": 190828741
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 624,
+          "visits": 190866952
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 589,
+          "visits": 190882547
+        }
+      ]
+    },
+    "123921593837160": {
+      "universeId": 7474367816,
+      "name": "Climb and Jump Tower [🎃EVENT]",
+      "creator": "Climbing World",
+      "playing": 5226,
+      "visits": 1128525249,
+      "favorites": 1456880,
+      "upVotes": 1305809,
+      "downVotes": 36846,
+      "created": "2025-04-02T02:03:08.21Z",
+      "updated": "2026-10-25T20:26:37.578Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-9b87d1a1c4729790a926db1a76760518/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-349daf5a3523a640d7c0ef07cce87fcb/768/432/Image/Png/noFilter",
+      "peakCcu": 6448,
+      "peakCcuAt": "2026-10-18T13:28:49.348Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 4534,
+          "visits": 1121721142
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 4670,
+          "visits": 1122109603
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 5451,
+          "visits": 1122520537
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 5703,
+          "visits": 1123069682
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 6448,
+          "visits": 1123618445
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 4135,
+          "visits": 1124008941
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 4459,
+          "visits": 1124407646
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 4615,
+          "visits": 1124761107
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 4813,
+          "visits": 1125109994
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 5138,
+          "visits": 1125510423
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 5555,
+          "visits": 1125983315
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 5729,
+          "visits": 1126459228
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 4419,
+          "visits": 1126791278
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 4557,
+          "visits": 1127152353
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 4903,
+          "visits": 1127544062
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 4260,
+          "visits": 1127882398
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 4835,
+          "visits": 1128304474
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 5226,
+          "visits": 1128525249
+        }
+      ]
+    },
+    "70906625936847": {
+      "universeId": 6443367640,
+      "name": "Gym Star Simulator 🎃",
+      "creator": "Gym Simulator Club",
+      "playing": 8534,
+      "visits": 732496905,
+      "favorites": 7124936,
+      "upVotes": 257705,
+      "downVotes": 21013,
+      "created": "2024-08-20T06:12:32.837Z",
+      "updated": "2026-10-30T14:15:44.905Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-d1800bb7f9f6c9ba36e71bd5b73f806d/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-a0f044eb8224f53403a76593d0de9393/768/432/Image/Png/noFilter",
+      "peakCcu": 9979,
+      "peakCcuAt": "2026-10-18T13:28:49.348Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 6843,
+          "visits": 721992771
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 7272,
+          "visits": 722579624
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 8584,
+          "visits": 723183237
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 9955,
+          "visits": 724091807
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 9979,
+          "visits": 724883461
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 6614,
+          "visits": 725493906
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 6892,
+          "visits": 726087094
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 6788,
+          "visits": 726600256
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 7214,
+          "visits": 727153297
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 7574,
+          "visits": 727755880
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 9674,
+          "visits": 728556920
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 9809,
+          "visits": 729334430
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 7095,
+          "visits": 729843744
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 6454,
+          "visits": 730380682
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 7149,
+          "visits": 730965924
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 6588,
+          "visits": 731483064
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 8799,
+          "visits": 732165900
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 8534,
+          "visits": 732496905
+        }
+      ]
+    },
+    "118614517739521": {
+      "universeId": 9277195104,
+      "name": "[UPD] Blind Shot",
+      "creator": "Blind Shot Group",
+      "playing": 152,
+      "visits": 198556144,
+      "favorites": 324976,
+      "upVotes": 677006,
+      "downVotes": 44822,
+      "created": "2025-12-01T03:06:42.133Z",
+      "updated": "2026-08-18T01:20:51.068Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-726d5db1f3319560a31e66285e3876d3/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-91fbfdc89707813642ff6beedbedc5ad/768/432/Image/Png/noFilter",
+      "peakCcu": 4428,
+      "peakCcuAt": "2026-10-24T23:34:26.349Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 169,
+          "visits": 196956873
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 198,
+          "visits": 196984607
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 199,
+          "visits": 197012751
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 286,
+          "visits": 197055525
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 288,
+          "visits": 197093075
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 624,
+          "visits": 197124481
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 1840,
+          "visits": 197183753
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 1024,
+          "visits": 197257185
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 1422,
+          "visits": 197336249
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 2849,
+          "visits": 197521629
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 4428,
+          "visits": 197744381
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 3364,
+          "visits": 197943089
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 866,
+          "visits": 198064237
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 1476,
+          "visits": 198213056
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 3333,
+          "visits": 198389047
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 474,
+          "visits": 198463542
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 649,
+          "visits": 198536052
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 152,
+          "visits": 198556144
+        }
+      ]
+    },
+    "94725155944518": {
+      "universeId": 7355857660,
+      "name": "Skinwalkers",
+      "creator": "Scoped Up",
+      "playing": 22,
+      "visits": 143976693,
+      "favorites": 351391,
+      "upVotes": 168963,
+      "downVotes": 18399,
+      "created": "2025-03-09T21:13:04.027Z",
+      "updated": "2026-03-26T02:29:07.843Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-62a3333861cf5ad1bc6f04c7e4a75650/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-7ed460b79842385f01ed749beadd09e0/768/432/Image/Png/noFilter",
+      "peakCcu": 40,
+      "peakCcuAt": "2026-10-25T17:32:29.460Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 27,
+          "visits": 143894643
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 19,
+          "visits": 143899769
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 30,
+          "visits": 143905010
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 33,
+          "visits": 143913104
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 33,
+          "visits": 143919857
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 17,
+          "visits": 143924490
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 27,
+          "visits": 143928348
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 19,
+          "visits": 143931289
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 23,
+          "visits": 143934250
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 15,
+          "visits": 143938644
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 33,
+          "visits": 143945688
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 40,
+          "visits": 143953120
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 24,
+          "visits": 143957185
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 24,
+          "visits": 143961702
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 18,
+          "visits": 143966120
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 21,
+          "visits": 143969619
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 24,
+          "visits": 143974143
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 24,
+          "visits": 143976693
+        }
+      ]
+    },
+    "72368345999613": {
+      "universeId": 6490954291,
+      "name": "GHOUL:// RE",
+      "creator": "Ghoul : // RE",
+      "playing": 95,
+      "visits": 102942749,
+      "favorites": 195669,
+      "upVotes": 166368,
+      "downVotes": 49566,
+      "created": "2024-08-31T00:04:41.82Z",
+      "updated": "2026-10-31T04:00:02.298Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-82e01ed2c12bdb0dc255790f4d71051e/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-9e252c80f52cf41f83e3f98ae39bad93/768/432/Image/Png/noFilter",
+      "peakCcu": 95,
+      "peakCcuAt": "2026-10-29T21:42:47.549Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 60,
+          "visits": 102848929
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 79,
+          "visits": 102853657
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 89,
+          "visits": 102858635
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 87,
+          "visits": 102866467
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 82,
+          "visits": 102873086
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 57,
+          "visits": 102878072
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 52,
+          "visits": 102882772
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 58,
+          "visits": 102886667
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 53,
+          "visits": 102891232
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 80,
+          "visits": 102897068
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 83,
+          "visits": 102903527
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 79,
+          "visits": 102909429
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 80,
+          "visits": 102913806
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 62,
+          "visits": 102918939
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 72,
+          "visits": 102924737
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 95,
+          "visits": 102930708
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 85,
+          "visits": 102938307
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 95,
+          "visits": 102942749
+        }
+      ]
+    },
+    "111856384095496": {
+      "universeId": 8546382234,
+      "name": "Battle for Brainrots!",
+      "creator": "[Unknown] Games",
+      "playing": 1,
+      "visits": 35981763,
+      "favorites": 1451593,
+      "upVotes": 155616,
+      "downVotes": 9174,
+      "created": "2025-08-25T19:11:00.757Z",
+      "updated": "2026-08-27T16:25:05.61Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-850cacb0588538aedbc7c68e663c2b64/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-2f1d7399cfb32449655ef3a758aafab7/768/432/Image/Png/noFilter",
+      "peakCcu": 7,
+      "peakCcuAt": "2026-10-24T18:00:35.891Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 6,
+          "visits": 35973267
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 5,
+          "visits": 35973789
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 4,
+          "visits": 35974299
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 5,
+          "visits": 35975134
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 6,
+          "visits": 35975831
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 4,
+          "visits": 35976279
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 5,
+          "visits": 35976775
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 4,
+          "visits": 35977118
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 2,
+          "visits": 35977527
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 3,
+          "visits": 35977956
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 7,
+          "visits": 35978598
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 3,
+          "visits": 35979239
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 1,
+          "visits": 35979644
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 2,
+          "visits": 35979988
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 2,
+          "visits": 35980387
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 4,
+          "visits": 35981081
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 4,
+          "visits": 35981559
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 1,
+          "visits": 35981763
+        }
+      ]
+    },
+    "116605585218149": {
+      "universeId": 6764180126,
+      "name": "[🎅UPD ] GO FISHING 🐟",
+      "creator": "Fishing Forum",
+      "playing": 459,
+      "visits": 249496240,
+      "favorites": 194289,
+      "upVotes": 222702,
+      "downVotes": 16138,
+      "created": "2024-11-06T01:05:19.707Z",
+      "updated": "2026-10-14T04:46:36.33Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-5a59862b56d17458f0b03625674e9d3a/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-a99ac9e3ab474435691d7b3f2723b5db/768/432/Image/Png/noFilter",
+      "peakCcu": 666,
+      "peakCcuAt": "2026-10-17T04:53:47.312Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 405,
+          "visits": 249009702
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 464,
+          "visits": 249037970
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 480,
+          "visits": 249069891
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 666,
+          "visits": 249112441
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 637,
+          "visits": 249150487
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 397,
+          "visits": 249176047
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 404,
+          "visits": 249200812
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 338,
+          "visits": 249222843
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 392,
+          "visits": 249245978
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 353,
+          "visits": 249271965
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 557,
+          "visits": 249308907
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 621,
+          "visits": 249347374
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 430,
+          "visits": 249373227
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 437,
+          "visits": 249398379
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 429,
+          "visits": 249424602
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 372,
+          "visits": 249446593
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 390,
+          "visits": 249474762
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 596,
+          "visits": 249496240
+        }
+      ]
+    },
+    "85622629241634": {
+      "universeId": 7227538827,
+      "name": "Robot Evolution",
+      "creator": "Happy dogs studio",
+      "playing": 27,
+      "visits": 16201510,
+      "favorites": 1144317,
+      "upVotes": 27467,
+      "downVotes": 3112,
+      "created": "2025-02-11T03:47:12.823Z",
+      "updated": "2026-06-18T16:23:38.167Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-c76b7b43a2af68f715aacbf90944515e/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-208e9b1660c757342a8bdd92cd1e0a22/768/432/Image/Png/noFilter",
+      "peakCcu": 83,
+      "peakCcuAt": "2026-10-17T13:07:39.459Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 26,
+          "visits": 16145276
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 23,
+          "visits": 16147420
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 20,
+          "visits": 16149651
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 83,
+          "visits": 16155431
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 55,
+          "visits": 16159962
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 25,
+          "visits": 16162934
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 22,
+          "visits": 16165919
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 28,
+          "visits": 16168767
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 36,
+          "visits": 16171888
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 32,
+          "visits": 16175027
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 33,
+          "visits": 16178793
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 51,
+          "visits": 16182884
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 21,
+          "visits": 16185363
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 23,
+          "visits": 16187732
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 61,
+          "visits": 16191775
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 42,
+          "visits": 16194863
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 37,
+          "visits": 16199228
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 49,
+          "visits": 16201510
+        }
+      ]
+    },
+    "133627020051654": {
+      "universeId": 8574921891,
+      "name": "Punch Wall [NEW WORLD - CHINA]",
+      "creator": "Wuxus Punchman",
+      "playing": 0,
+      "visits": 81564462,
+      "favorites": 95262,
+      "upVotes": 129594,
+      "downVotes": 4210,
+      "created": "2025-08-29T03:23:39.347Z",
+      "updated": "2026-09-25T21:19:52.759Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-fcf09e1fe6a3039392cad27650c4b8b0/512/512/Image/Png/noFilter",
+      "peakCcu": 3,
+      "peakCcuAt": "2026-10-14T15:46:23.958Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 3,
+          "visits": 81557503
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 1,
+          "visits": 81557919
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1,
+          "visits": 81558270
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 1,
+          "visits": 81558852
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 2,
+          "visits": 81559400
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 2,
+          "visits": 81559774
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 2,
+          "visits": 81560114
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 1,
+          "visits": 81560415
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 2,
+          "visits": 81560723
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 3,
+          "visits": 81561134
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 3,
+          "visits": 81561679
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 3,
+          "visits": 81562168
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 3,
+          "visits": 81562471
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 1,
+          "visits": 81562815
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 3,
+          "visits": 81563353
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 1,
+          "visits": 81563870
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 2,
+          "visits": 81564258
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 1,
+          "visits": 81564462
+        }
+      ]
+    },
+    "110404078250920": {
+      "universeId": 7511994298,
+      "name": "[UPD] Grow Flowers 🌺",
+      "creator": "Midnight X Games",
+      "playing": 0,
+      "visits": 7621811,
+      "favorites": 29764,
+      "upVotes": 7591,
+      "downVotes": 1327,
+      "created": "2025-04-09T11:16:12.41Z",
+      "updated": "2026-10-08T10:32:38.374Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-d0cdcb3ed3532f32ccf0b37e53f3321e/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-990c272a9b4547edc9fbee3a1f120ab9/768/432/Image/Png/noFilter",
+      "peakCcu": 2,
+      "peakCcuAt": "2026-10-18T13:28:49.348Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 0,
+          "visits": 7621329
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 1,
+          "visits": 7621347
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 0,
+          "visits": 7621368
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 1,
+          "visits": 7621417
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 2,
+          "visits": 7621447
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 0,
+          "visits": 7621468
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 1,
+          "visits": 7621494
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 0,
+          "visits": 7621513
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 1,
+          "visits": 7621521
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 0,
+          "visits": 7621536
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 1,
+          "visits": 7621554
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 0,
+          "visits": 7621578
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 1,
+          "visits": 7621605
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 0,
+          "visits": 7621629
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 0,
+          "visits": 7621737
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 1,
+          "visits": 7621763
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 1,
+          "visits": 7621785
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 7621811
+        }
+      ]
+    },
+    "18305220295": {
+      "universeId": 6205919964,
+      "name": "Space Defenders",
+      "creator": "Alien TD",
+      "playing": 0,
+      "visits": 2339920,
+      "favorites": 12885,
+      "upVotes": 44415,
+      "downVotes": 1281,
+      "created": "2024-07-02T16:14:09.62Z",
+      "updated": "2025-01-22T01:57:15.07Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-1d08220b05f99f1f121b864e607f4ec3/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-5ca4ccec6b370d2cbafe1e1ef9492873/768/432/Image/Png/noFilter",
+      "peakCcu": 1,
+      "peakCcuAt": "2026-10-14T20:06:12.422Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 1,
+          "visits": 2339734
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 1,
+          "visits": 2339754
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1,
+          "visits": 2339771
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 0,
+          "visits": 2339784
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 1,
+          "visits": 2339801
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 1,
+          "visits": 2339812
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 0,
+          "visits": 2339817
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 1,
+          "visits": 2339824
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 1,
+          "visits": 2339835
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 1,
+          "visits": 2339848
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 1,
+          "visits": 2339876
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 1,
+          "visits": 2339900
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 0,
+          "visits": 2339915
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 0,
+          "visits": 2339917
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 0,
+          "visits": 2339917
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 2339920
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 2339920
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 2339920
+        }
+      ]
+    },
+    "15364195813": {
+      "universeId": 5299737917,
+      "name": "Pet Collector",
+      "creator": "PXL | Pixel Playground",
+      "playing": 0,
+      "visits": 1411019,
+      "favorites": 4759,
+      "upVotes": 5868,
+      "downVotes": 758,
+      "created": "2023-11-15T17:41:24.333Z",
+      "updated": "2025-03-05T17:00:03.093Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-75e54d7234bad8b1238907127cb49cc2/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-bf8380278aa674176387991181f87e8e/768/432/Image/Png/noFilter",
+      "peakCcu": 0,
+      "peakCcuAt": "2026-10-14T10:36:34.140Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 0,
+          "visits": 1411015
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 0,
+          "visits": 1411015
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 0,
+          "visits": 1411015
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 0,
+          "visits": 1411015
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 0,
+          "visits": 1411015
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 0,
+          "visits": 1411017
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 0,
+          "visits": 1411017
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 0,
+          "visits": 1411018
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 0,
+          "visits": 1411018
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 0,
+          "visits": 1411018
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 0,
+          "visits": 1411018
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 0,
+          "visits": 1411018
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 0,
+          "visits": 1411018
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 0,
+          "visits": 1411018
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 0,
+          "visits": 1411018
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 1411018
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 1411019
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 1411019
+        }
+      ]
+    },
+    "71344980160819": {
+      "universeId": 8285479519,
+      "name": "Build A Bunker",
+      "creator": "Hunt Labs",
+      "playing": 0,
+      "visits": 1871499,
+      "favorites": 5857,
+      "upVotes": 4110,
+      "downVotes": 1123,
+      "created": "2025-07-28T20:49:41.693Z",
+      "updated": "2026-02-11T22:40:24.997Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-f7e10c2ea060ed26610b06f69f693502/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-56dd058a45839f17c31da551b8f4fb3b/768/432/Image/Png/noFilter",
+      "peakCcu": 0,
+      "peakCcuAt": "2026-10-14T10:36:34.140Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 0,
+          "visits": 1871495
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 0,
+          "visits": 1871496
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 0,
+          "visits": 1871496
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 0,
+          "visits": 1871496
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 0,
+          "visits": 1871496
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 0,
+          "visits": 1871496
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 0,
+          "visits": 1871496
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 0,
+          "visits": 1871496
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 0,
+          "visits": 1871497
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 0,
+          "visits": 1871497
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 0,
+          "visits": 1871499
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 0,
+          "visits": 1871499
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 0,
+          "visits": 1871499
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 0,
+          "visits": 1871499
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 0,
+          "visits": 1871499
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 1871499
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 1871499
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 1871499
+        }
+      ]
+    },
+    "109243958755522": {
+      "universeId": 7518203107,
+      "name": "[NEW] Animal Farm",
+      "creator": "Lets Go Farming",
+      "playing": 0,
+      "visits": 347035,
+      "favorites": 651,
+      "upVotes": 680,
+      "downVotes": 71,
+      "created": "2025-04-10T19:41:37.093Z",
+      "updated": "2026-02-09T18:20:00.404Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-dec670b04b97ddca2b48bba08d9877a6/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-49a7c2209c35ce6b84a3b88362d0b921/768/432/Image/Png/noFilter",
+      "peakCcu": 0,
+      "peakCcuAt": "2026-10-14T10:36:34.140Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 347035
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 347035
+        }
+      ]
+    },
+    "122576696342824": {
+      "universeId": 7071645746,
+      "name": "Dragon Training🐉",
+      "creator": "Nova Play",
+      "playing": 143,
+      "visits": 73757945,
+      "favorites": 3087797,
+      "upVotes": 181723,
+      "downVotes": 4501,
+      "created": "2025-01-11T15:30:22.917Z",
+      "updated": "2026-10-12T08:44:15.098Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-935ba272528b78d1b6ef8ad387fcd4a9/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-1d41070e8c0d5f1815130c666d751d33/768/432/Image/Png/noFilter",
+      "peakCcu": 475,
+      "peakCcuAt": "2026-10-16T14:10:02.466Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 251,
+          "visits": 73469887
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 407,
+          "visits": 73493668
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 475,
+          "visits": 73519310
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 423,
+          "visits": 73549590
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 411,
+          "visits": 73573905
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 250,
+          "visits": 73592641
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 316,
+          "visits": 73610989
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 180,
+          "visits": 73624132
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 196,
+          "visits": 73636718
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 187,
+          "visits": 73651251
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 232,
+          "visits": 73669275
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 260,
+          "visits": 73686785
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 186,
+          "visits": 73698776
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 185,
+          "visits": 73711983
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 229,
+          "visits": 73726923
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 147,
+          "visits": 73737347
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 193,
+          "visits": 73751198
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 165,
+          "visits": 73757945
+        }
+      ]
+    },
+    "82208825713916": {
+      "universeId": 10299611114,
+      "name": "Scale Slimy Fish [UPDATE]",
+      "creator": "Scale the Deeps",
+      "playing": 0,
+      "visits": 23865988,
+      "favorites": 244996,
+      "upVotes": 226340,
+      "downVotes": 4904,
+      "created": "2026-06-10T08:04:50.815Z",
+      "updated": "2026-09-11T16:56:24.191Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-aa55244051cd4b6e3a60909bf8db58be/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-72404871e72bb3339d8a28d9cb82ef93/768/432/Image/Png/noFilter",
+      "peakCcu": 102,
+      "peakCcuAt": "2026-10-17T19:10:30.116Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 71,
+          "visits": 23802892
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 80,
+          "visits": 23808984
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 73,
+          "visits": 23814939
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 102,
+          "visits": 23823785
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 94,
+          "visits": 23830596
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 53,
+          "visits": 23835716
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 66,
+          "visits": 23840931
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 57,
+          "visits": 23845398
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 52,
+          "visits": 23849887
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 51,
+          "visits": 23854684
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 66,
+          "visits": 23861128
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 64,
+          "visits": 23865987
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 0,
+          "visits": 23865987
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 0,
+          "visits": 23865988
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 0,
+          "visits": 23865988
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 23865988
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 23865988
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 23865988
+        }
+      ]
+    },
+    "140302982046391": {
+      "universeId": 10421154706,
+      "name": "Be The Final Boss [UPDATE]",
+      "creator": "Apparently Champions",
+      "playing": 253,
+      "visits": 33887569,
+      "favorites": 818673,
+      "upVotes": 119545,
+      "downVotes": 4433,
+      "created": "2026-06-30T11:26:12.654Z",
+      "updated": "2026-10-14T12:16:55.211Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-bed52e39262f381316ca5958998d3669/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-66a06c5e4a0fd3481edfc6ac91501248/768/432/Image/Png/noFilter",
+      "peakCcu": 750,
+      "peakCcuAt": "2026-10-17T13:07:39.459Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 627,
+          "visits": 33328735
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 731,
+          "visits": 33378048
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 728,
+          "visits": 33423273
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 750,
+          "visits": 33480055
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 630,
+          "visits": 33525831
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 499,
+          "visits": 33564584
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 467,
+          "visits": 33601341
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 453,
+          "visits": 33632328
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 438,
+          "visits": 33662372
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 398,
+          "visits": 33692384
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 466,
+          "visits": 33726258
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 446,
+          "visits": 33758954
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 334,
+          "visits": 33782546
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 342,
+          "visits": 33807779
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 292,
+          "visits": 33833657
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 299,
+          "visits": 33853016
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 315,
+          "visits": 33877725
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 253,
+          "visits": 33887569
+        }
+      ]
+    },
+    "78724049937437": {
+      "universeId": 9977954973,
+      "name": "[🎨] Paint And SEEK!",
+      "creator": "Blend In Or Die",
+      "playing": 99,
+      "visits": 105923166,
+      "favorites": 152948,
+      "upVotes": 41955,
+      "downVotes": 16400,
+      "created": "2026-04-02T16:29:59.95Z",
+      "updated": "2026-10-26T02:27:35.065Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-82f40a5478602d650e8e02c430e401a4/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-3aeb9dbdd916f3cc6416868f7f357679/768/432/Image/Png/noFilter",
+      "peakCcu": 189,
+      "peakCcuAt": "2026-10-25T13:51:40.397Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 87,
+          "visits": 105703670
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 120,
+          "visits": 105716358
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 134,
+          "visits": 105729873
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 182,
+          "visits": 105751396
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 164,
+          "visits": 105769952
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 105,
+          "visits": 105781770
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 97,
+          "visits": 105792766
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 79,
+          "visits": 105802392
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 85,
+          "visits": 105812088
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 102,
+          "visits": 105825190
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 148,
+          "visits": 105843420
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 189,
+          "visits": 105862317
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 108,
+          "visits": 105874330
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 106,
+          "visits": 105885792
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 121,
+          "visits": 105896074
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 82,
+          "visits": 105905439
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 97,
+          "visits": 105917316
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 99,
+          "visits": 105923166
+        }
+      ]
+    },
+    "105031185134358": {
+      "universeId": 10111742174,
+      "name": "[UPD!] Defend ur base with anime",
+      "creator": "One Billion Six Seven",
+      "playing": 19,
+      "visits": 30924673,
+      "favorites": 61859,
+      "upVotes": 142054,
+      "downVotes": 3241,
+      "created": "2026-05-02T08:21:58.033Z",
+      "updated": "2026-10-23T16:11:44.353Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-cb4454019a36bef14a365cc454f3de00/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-9257c2e2a16497b2b8cc7fc8e6d3ce67/768/432/Image/Png/noFilter",
+      "peakCcu": 96,
+      "peakCcuAt": "2026-10-18T04:06:01.842Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 34,
+          "visits": 30872958
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 67,
+          "visits": 30876893
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 80,
+          "visits": 30881095
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 78,
+          "visits": 30887474
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 96,
+          "visits": 30892986
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 49,
+          "visits": 30896727
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 45,
+          "visits": 30900333
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 35,
+          "visits": 30902935
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 37,
+          "visits": 30905374
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 48,
+          "visits": 30908270
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 47,
+          "visits": 30911586
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 43,
+          "visits": 30914477
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 28,
+          "visits": 30916223
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 26,
+          "visits": 30917984
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 22,
+          "visits": 30919849
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 23,
+          "visits": 30921521
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 21,
+          "visits": 30923485
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 22,
+          "visits": 30924673
+        }
+      ]
+    },
+    "115815718131154": {
+      "universeId": 6906326545,
+      "name": "Basketball Showdown",
+      "creator": "Anime: Showdown",
+      "playing": 10,
+      "visits": 32701265,
+      "favorites": 749141,
+      "upVotes": 693566,
+      "downVotes": 14937,
+      "created": "2024-12-11T16:46:09.927Z",
+      "updated": "2026-10-01T23:51:57.691Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-de422fa81f51706300a4381dae2b7458/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-c54a2e8cbc01a83a1d65edde5c2bd677/768/432/Image/Png/noFilter",
+      "peakCcu": 10,
+      "peakCcuAt": "2026-10-31T11:07:47.133Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 1,
+          "visits": 32698085
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 1,
+          "visits": 32698229
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1,
+          "visits": 32698381
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 1,
+          "visits": 32698674
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 2,
+          "visits": 32698845
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 0,
+          "visits": 32699012
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 0,
+          "visits": 32699190
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 1,
+          "visits": 32699336
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 1,
+          "visits": 32699467
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 1,
+          "visits": 32699655
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 1,
+          "visits": 32699883
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 2,
+          "visits": 32700121
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 0,
+          "visits": 32700266
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 2,
+          "visits": 32700405
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 1,
+          "visits": 32700645
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 32700840
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 5,
+          "visits": 32701050
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 10,
+          "visits": 32701265
+        }
+      ]
+    },
+    "129559579789369": {
+      "universeId": 10168931576,
+      "name": "Roll to Defend",
+      "creator": "D:/Drive",
+      "playing": 14,
+      "visits": 14427207,
+      "favorites": 29932,
+      "upVotes": 38062,
+      "downVotes": 1691,
+      "created": "2026-05-14T23:02:41.665Z",
+      "updated": "2026-08-01T16:00:38.734Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-e041c9510ad58a41f93b8544acf6fcc3/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-0f7d72ef34f40f1729a9cf0535f14167/768/432/Image/Png/noFilter",
+      "peakCcu": 45,
+      "peakCcuAt": "2026-10-15T21:12:31.833Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 28,
+          "visits": 14394212
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 45,
+          "visits": 14396510
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 38,
+          "visits": 14398831
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 36,
+          "visits": 14401827
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 33,
+          "visits": 14404077
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 33,
+          "visits": 14406390
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 33,
+          "visits": 14408660
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 33,
+          "visits": 14410477
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 25,
+          "visits": 14412330
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 24,
+          "visits": 14414345
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 28,
+          "visits": 14416567
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 28,
+          "visits": 14418668
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 26,
+          "visits": 14420124
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 25,
+          "visits": 14421835
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 19,
+          "visits": 14423557
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 16,
+          "visits": 14424863
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 18,
+          "visits": 14426455
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 22,
+          "visits": 14427207
+        }
+      ]
+    },
+    "103754275310547": {
+      "universeId": 7750955984,
+      "name": "[7H!] Hunty Zombie",
+      "creator": "HZ DEV",
+      "playing": 1107,
+      "visits": 721916987,
+      "favorites": 932953,
+      "upVotes": 813398,
+      "downVotes": 38309,
+      "created": "2025-05-22T21:52:28.25Z",
+      "updated": "2026-10-31T11:02:49.193Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-797547db56432447d04854526131c018/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-bdf3eef0bee26fce9ed9a9dc7a16b67c/768/432/Image/Png/noFilter",
+      "peakCcu": 2220,
+      "peakCcuAt": "2026-10-17T19:10:30.116Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 826,
+          "visits": 719467197
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 922,
+          "visits": 719582368
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1074,
+          "visits": 719692709
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 2220,
+          "visits": 719896015
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 1669,
+          "visits": 720090882
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 955,
+          "visits": 720212177
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 896,
+          "visits": 720329123
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 1157,
+          "visits": 720437303
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 1183,
+          "visits": 720571144
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 1141,
+          "visits": 720709756
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 1439,
+          "visits": 720896800
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 1549,
+          "visits": 721113716
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 1017,
+          "visits": 721231475
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 867,
+          "visits": 721342341
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 1375,
+          "visits": 721476310
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 1195,
+          "visits": 721623326
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 1524,
+          "visits": 721823678
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 1440,
+          "visits": 721916987
+        }
+      ]
+    },
+    "15536298749": {
+      "universeId": 5362306392,
+      "name": "Littlest Pet Shop",
+      "creator": "Misfits Gaming | Littlest Pet Shop",
+      "playing": 3,
+      "visits": 14267727,
+      "favorites": 75822,
+      "upVotes": 14667,
+      "downVotes": 1947,
+      "created": "2023-12-03T15:13:35.367Z",
+      "updated": "2025-10-09T15:59:08.823Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-841050788abc46f6f2d14ca4f7acd49e/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-1fe4f9774541a44ebff80f86edcc1340/768/432/Image/Png/noFilter",
+      "peakCcu": 12,
+      "peakCcuAt": "2026-10-17T16:36:53.835Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 5,
+          "visits": 14256621
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 5,
+          "visits": 14257234
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 8,
+          "visits": 14257864
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 12,
+          "visits": 14258861
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 9,
+          "visits": 14259668
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 5,
+          "visits": 14260255
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 5,
+          "visits": 14260797
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 5,
+          "visits": 14261329
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 7,
+          "visits": 14261912
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 7,
+          "visits": 14262573
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 10,
+          "visits": 14263425
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 8,
+          "visits": 14264241
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 7,
+          "visits": 14264740
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 6,
+          "visits": 14265464
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 9,
+          "visits": 14266338
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 7,
+          "visits": 14266854
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 6,
+          "visits": 14267510
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 3,
+          "visits": 14267727
+        }
+      ]
+    },
+    "14618379101": {
+      "universeId": 5042487868,
+      "name": "Chupa Chups Skate & Create 🍭",
+      "creator": "Pixel Playground X Skate & Create",
+      "playing": 0,
+      "visits": 8045546,
+      "favorites": 21386,
+      "upVotes": 19292,
+      "downVotes": 3946,
+      "created": "2023-08-29T22:00:41.167Z",
+      "updated": "2026-08-15T21:22:20.051Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-868533eb6a8cc40e9e02d10c22872d4c/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-875bbcaac6f08d252adbacce5d4122a3/768/432/Image/Png/noFilter",
+      "peakCcu": 3,
+      "peakCcuAt": "2026-10-14T21:59:44.431Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 3,
+          "visits": 8042578
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 2,
+          "visits": 8042747
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1,
+          "visits": 8042919
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 2,
+          "visits": 8043209
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 2,
+          "visits": 8043419
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 3,
+          "visits": 8043607
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 1,
+          "visits": 8043755
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 2,
+          "visits": 8043888
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 0,
+          "visits": 8044009
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 1,
+          "visits": 8044145
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 1,
+          "visits": 8044357
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 1,
+          "visits": 8044545
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 1,
+          "visits": 8044671
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 1,
+          "visits": 8044841
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 2,
+          "visits": 8045118
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 2,
+          "visits": 8045291
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 1,
+          "visits": 8045467
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 8045546
+        }
+      ]
+    },
+    "92145969552720": {
+      "universeId": 6599315077,
+      "name": "Ethobot Murder Mystery",
+      "creator": "Ethobot Murder Mystery",
+      "playing": 0,
+      "visits": 67101,
+      "favorites": 1159,
+      "upVotes": 1055,
+      "downVotes": 34,
+      "created": "2024-09-25T21:53:14.707Z",
+      "updated": "2025-06-10T01:02:17.743Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-7f9ebcb9ffbe461cacf462f49fcf98e2/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-cb6d40b5e9f31d6ee0a632c656fe1b28/768/432/Image/Png/noFilter",
+      "peakCcu": 1,
+      "peakCcuAt": "2026-10-16T09:13:24.078Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 0,
+          "visits": 67055
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 0,
+          "visits": 67061
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1,
+          "visits": 67065
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 0,
+          "visits": 67067
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 0,
+          "visits": 67071
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 0,
+          "visits": 67073
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 0,
+          "visits": 67076
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 0,
+          "visits": 67079
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 0,
+          "visits": 67084
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 0,
+          "visits": 67085
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 0,
+          "visits": 67090
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 0,
+          "visits": 67092
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 0,
+          "visits": 67094
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 0,
+          "visits": 67095
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 0,
+          "visits": 67097
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 67097
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 67097
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 67101
+        }
+      ]
+    },
+    "138038324020217": {
+      "universeId": 8254896051,
+      "name": "Mutant Legends: Climb [LAUNCH!]",
+      "creator": "OozeWorks Studios",
+      "playing": 0,
+      "visits": 777941,
+      "favorites": 1829,
+      "upVotes": 532,
+      "downVotes": 139,
+      "created": "2025-07-25T17:10:47.85Z",
+      "updated": "2026-07-31T17:59:05.167Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-fdd27f2898c1444099f379cec9c259cf/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-f4e4349205def8761e29086f2afc88b1/768/432/Image/Png/noFilter",
+      "peakCcu": 0,
+      "peakCcuAt": "2026-10-14T10:36:34.140Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 0,
+          "visits": 777941
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 0,
+          "visits": 777941
+        }
+      ]
+    },
+    "87876279581635": {
+      "universeId": 7966542617,
+      "name": "Build A Firework Show",
+      "creator": "The FG Bank",
+      "playing": 18,
+      "visits": 11637474,
+      "favorites": 257999,
+      "upVotes": 90407,
+      "downVotes": 1339,
+      "created": "2025-06-21T16:49:56.95Z",
+      "updated": "2026-09-06T18:41:39.333Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-2aba11081453cf44836d817fb01830ea/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-9ef0c10fb59913482de30d9356ad15d0/768/432/Image/Png/noFilter",
+      "peakCcu": 21,
+      "peakCcuAt": "2026-10-25T13:51:40.397Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 4,
+          "visits": 11623364
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 6,
+          "visits": 11623661
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 6,
+          "visits": 11623932
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 5,
+          "visits": 11624314
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 5,
+          "visits": 11624704
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 8,
+          "visits": 11625069
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 4,
+          "visits": 11625389
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 7,
+          "visits": 11625701
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 7,
+          "visits": 11626491
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 11,
+          "visits": 11627311
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 12,
+          "visits": 11628761
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 21,
+          "visits": 11630254
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 12,
+          "visits": 11631339
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 11,
+          "visits": 11632364
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 15,
+          "visits": 11633636
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 10,
+          "visits": 11634727
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 12,
+          "visits": 11636434
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 18,
+          "visits": 11637474
+        }
+      ]
+    },
+    "79536652954455": {
+      "universeId": 6729864871,
+      "name": "Color Everything!",
+      "creator": "Effortless GG",
+      "playing": 3,
+      "visits": 26505106,
+      "favorites": 27871,
+      "upVotes": 70816,
+      "downVotes": 10624,
+      "created": "2024-10-28T07:51:09.277Z",
+      "updated": "2026-09-25T13:28:40.124Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-3b16fa7e204baeca91faf745ffe1d0c8/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-25c823abe3069d3e4b7c69af1acf4d6f/768/432/Image/Png/noFilter",
+      "peakCcu": 13,
+      "peakCcuAt": "2026-10-25T09:19:22.018Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 0,
+          "visits": 26495422
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 6,
+          "visits": 26495784
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 4,
+          "visits": 26496227
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 12,
+          "visits": 26496927
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 3,
+          "visits": 26497473
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 3,
+          "visits": 26497849
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 5,
+          "visits": 26498235
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 3,
+          "visits": 26498651
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 4,
+          "visits": 26499056
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 2,
+          "visits": 26499588
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 10,
+          "visits": 26500338
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 13,
+          "visits": 26501054
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 5,
+          "visits": 26501526
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 2,
+          "visits": 26502140
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 13,
+          "visits": 26503635
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 4,
+          "visits": 26504239
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 4,
+          "visits": 26504870
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 3,
+          "visits": 26505106
+        }
+      ]
+    },
+    "75917364083659": {
+      "universeId": 7166097502,
+      "name": "[UPD] Parkour Rush",
+      "creator": "ParkourRush",
+      "playing": 8,
+      "visits": 69470059,
+      "favorites": 4946193,
+      "upVotes": 22484,
+      "downVotes": 39067,
+      "created": "2025-01-29T22:01:06.157Z",
+      "updated": "2026-07-17T16:03:47.595Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-8d1b871c46b43902fecb9f4937dd1768/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-7231b94d4655bff1c7eff884f78fa628/768/432/Image/Png/noFilter",
+      "peakCcu": 12,
+      "peakCcuAt": "2026-10-17T16:36:53.835Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 7,
+          "visits": 69451398
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 7,
+          "visits": 69452254
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 11,
+          "visits": 69453117
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 12,
+          "visits": 69455009
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 8,
+          "visits": 69456357
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 4,
+          "visits": 69457341
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 9,
+          "visits": 69458299
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 7,
+          "visits": 69459071
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 9,
+          "visits": 69460193
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 7,
+          "visits": 69461526
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 11,
+          "visits": 69463231
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 12,
+          "visits": 69464725
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 7,
+          "visits": 69465590
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 5,
+          "visits": 69466393
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 7,
+          "visits": 69467336
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 6,
+          "visits": 69468168
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 9,
+          "visits": 69469420
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 8,
+          "visits": 69470059
+        }
+      ]
+    },
+    "94682676231618": {
+      "universeId": 7629758628,
+      "name": "My Fishing Pier🐠",
+      "creator": "My Fishing Pier",
+      "playing": 14,
+      "visits": 50097223,
+      "favorites": 88534,
+      "upVotes": 118859,
+      "downVotes": 4484,
+      "created": "2025-05-02T03:04:06.253Z",
+      "updated": "2026-08-11T16:33:12.374Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-2b89e4e7697f153001e821a879e4b33d/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-7863e0906f2dd230562cfe7baf935453/768/432/Image/Png/noFilter",
+      "peakCcu": 24,
+      "peakCcuAt": "2026-10-28T00:22:42.218Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 13,
+          "visits": 50069976
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 17,
+          "visits": 50071701
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 10,
+          "visits": 50073178
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 21,
+          "visits": 50075875
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 22,
+          "visits": 50077976
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 23,
+          "visits": 50079780
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 18,
+          "visits": 50081233
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 11,
+          "visits": 50082380
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 12,
+          "visits": 50083647
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 20,
+          "visits": 50085079
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 21,
+          "visits": 50087099
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 23,
+          "visits": 50089143
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 16,
+          "visits": 50090313
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 17,
+          "visits": 50091574
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 24,
+          "visits": 50093010
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 20,
+          "visits": 50094224
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 21,
+          "visits": 50096181
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 20,
+          "visits": 50097223
+        }
+      ]
+    },
+    "133968315607063": {
+      "universeId": 8279887603,
+      "name": "Redfield Elementary School 🐦",
+      "creator": "Izzyan Studios",
+      "playing": 236,
+      "visits": 104414199,
+      "favorites": 391229,
+      "upVotes": 68890,
+      "downVotes": 8190,
+      "created": "2025-07-28T07:40:00.263Z",
+      "updated": "2026-09-21T18:52:03.58Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-5d628adc33b514ae0c8fd3c16ac835d0/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-1361d454e888db6c7ef9e3144c876eda/768/432/Image/Png/noFilter",
+      "peakCcu": 983,
+      "peakCcuAt": "2026-10-18T16:49:35.295Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 685,
+          "visits": 103752671
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 560,
+          "visits": 103791998
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 670,
+          "visits": 103828129
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 886,
+          "visits": 103894498
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 983,
+          "visits": 103952541
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 767,
+          "visits": 103993522
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 650,
+          "visits": 104031239
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 572,
+          "visits": 104061909
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 563,
+          "visits": 104091234
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 596,
+          "visits": 104127788
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 739,
+          "visits": 104180057
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 875,
+          "visits": 104233413
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 643,
+          "visits": 104264003
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 595,
+          "visits": 104298767
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 631,
+          "visits": 104336912
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 538,
+          "visits": 104362886
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 546,
+          "visits": 104398758
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 236,
+          "visits": 104414199
+        }
+      ]
+    },
+    "87311102000285": {
+      "universeId": 9084112733,
+      "name": "[UPD📼] Camper Van Trip 🌲",
+      "creator": "Rat Studios-",
+      "playing": 1000,
+      "visits": 87996851,
+      "favorites": 194362,
+      "upVotes": 18936,
+      "downVotes": 5030,
+      "created": "2025-11-02T03:12:09.937Z",
+      "updated": "2026-08-15T21:00:00.203Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-29d09e647073c3a2ce59e051cda3e17f/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-8f69fc6ab16f0dd00d9e14afcbb04e1c/768/432/Image/Png/noFilter",
+      "peakCcu": 1695,
+      "peakCcuAt": "2026-10-17T13:07:39.459Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 882,
+          "visits": 85863194
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 1177,
+          "visits": 85988514
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 1693,
+          "visits": 86139754
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 1695,
+          "visits": 86343695
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 1644,
+          "visits": 86531260
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 898,
+          "visits": 86650237
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 932,
+          "visits": 86764538
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 813,
+          "visits": 86857306
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 915,
+          "visits": 86951726
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 1197,
+          "visits": 87078335
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 1470,
+          "visits": 87241249
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 1511,
+          "visits": 87409861
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 881,
+          "visits": 87505007
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 836,
+          "visits": 87601615
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 1012,
+          "visits": 87712190
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 869,
+          "visits": 87809826
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 1039,
+          "visits": 87936181
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 1000,
+          "visits": 87996851
+        }
+      ]
+    },
+    "81535567274521": {
+      "universeId": 8220767002,
+      "name": "[🐝] Bee Garden",
+      "creator": "Evermind",
+      "playing": 78,
+      "visits": 43756981,
+      "favorites": 407978,
+      "upVotes": 72125,
+      "downVotes": 2700,
+      "created": "2025-07-21T16:28:38.61Z",
+      "updated": "2026-10-29T15:09:23.294Z",
+      "iconUrl": "https://tr.rbxcdn.com/180DAY-34002398c6153669f298225435990388/512/512/Image/Png/noFilter",
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-1601e3e4763872818825ab3d6368221f/768/432/Image/Png/noFilter",
+      "peakCcu": 204,
+      "peakCcuAt": "2026-10-16T14:10:02.466Z",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "peak": 108,
+          "visits": 43626427
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 164,
+          "visits": 43636703
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 204,
+          "visits": 43647432
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 154,
+          "visits": 43659390
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 171,
+          "visits": 43669166
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 105,
+          "visits": 43677636
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 128,
+          "visits": 43686413
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 140,
+          "visits": 43693726
+        },
+        {
+          "date": "2026-10-22",
+          "peak": 105,
+          "visits": 43700870
+        },
+        {
+          "date": "2026-10-23",
+          "peak": 98,
+          "visits": 43708295
+        },
+        {
+          "date": "2026-10-24",
+          "peak": 95,
+          "visits": 43716516
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 97,
+          "visits": 43723758
+        },
+        {
+          "date": "2026-10-26",
+          "peak": 80,
+          "visits": 43729633
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 78,
+          "visits": 43735600
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 87,
+          "visits": 43742396
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 78,
+          "visits": 43747877
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 83,
+          "visits": 43754043
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 79,
+          "visits": 43756981
+        }
+      ]
+    }
+  }
+}
