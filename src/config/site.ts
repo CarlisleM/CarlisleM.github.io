@@ -77,7 +77,7 @@ export const site: {
       company: 'Splash',
       role: 'Lead Software Engineer',
       period: 'Dec 2021 – Jun 2023',
-      location: 'Brisbane / LA',
+      location: 'Brisbane / Los Angeles',
       summary:
         'Core gameplay, UI and backend for a top 100 Roblox game: multiplayer, queues, shared player data, leaderboards, loot crates, inventory and shops. Weekly production deploys and player analytics.',
       roblox: true,

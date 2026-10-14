@@ -37,7 +37,7 @@ export function Experience() {
 }
 
 function Row({ href, children }: { href?: string; children: ReactNode }) {
-  const className = 'group grid gap-3 border-b-2 border-line py-7 md:grid-cols-[11rem_1fr_auto] md:gap-8'
+  const className = 'group grid gap-3 border-b-2 border-line py-7 md:grid-cols-[13rem_1fr_auto] md:gap-8'
   return href ? (
     <a href={href} target="_blank" rel="noreferrer" className={className}>
       {children}
