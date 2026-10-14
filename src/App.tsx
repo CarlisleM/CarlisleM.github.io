@@ -4,6 +4,7 @@ import { Contact, Footer } from './components/Contact'
 import { Games } from './components/Games'
 import { Hero } from './components/Hero'
 import { Nav } from './components/Nav'
+import { Spotlight } from './components/Spotlight'
 import { StatsBand } from './components/StatsBand'
 import { useStats } from './lib/useStats'
 
@@ -17,6 +18,7 @@ export default function App() {
       <main>
         <Hero views={views} totals={totals} avatarUrl={data?.avatarUrl} updatedAt={data?.updatedAt} />
         <StatsBand totals={totals} />
+        <Spotlight views={views} />
         <Games views={views} />
         <Brands />
         <About />

@@ -118,12 +118,14 @@ async function main() {
     ),
     [],
   )
-  const avatar = await optional(
-    getJson<DataResponse<RobloxImage>>(
-      `https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=${site.robloxUserId}&size=420x420&format=Png&isCircular=false`,
-    ),
-    { data: [] },
-  )
+  const avatar = site.robloxUserId
+    ? await optional(
+        getJson<DataResponse<RobloxImage>>(
+          `https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=${site.robloxUserId}&size=420x420&format=Png&isCircular=false`,
+        ),
+        { data: [] },
+      )
+    : { data: [] }
 
   const detailById = new Map(details.map((game) => [game.id, game]))
   const votesById = new Map(votes.map((vote) => [vote.id, vote]))
@@ -162,7 +164,7 @@ async function main() {
 
   const stats: StatsFile = {
     updatedAt: now,
-    avatarUrl: avatar.data[0]?.imageUrl ?? existing.avatarUrl,
+    avatarUrl: site.robloxUserId ? (avatar.data[0]?.imageUrl ?? existing.avatarUrl) : undefined,
     games: nextGames,
   }
 

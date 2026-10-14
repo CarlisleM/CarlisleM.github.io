@@ -1,7 +1,7 @@
-import { ArrowUpRight } from 'lucide-react'
+import { ArrowUpRight, Check, Copy } from 'lucide-react'
 import { site } from '../config/site'
 import { timeAgo } from '../lib/format'
-import { Reveal, SocialIcon } from './ui'
+import { Reveal, SocialIcon, SocialLink } from './ui'
 
 export function Contact() {
   return (
@@ -17,22 +17,32 @@ export function Contact() {
         </p>
         <div className="relative mx-auto mt-10 grid max-w-3xl gap-3 sm:grid-cols-2">
           {site.socials.map((social) => (
-            <a
+            <SocialLink
               key={social.kind}
-              href={social.href}
-              target="_blank"
-              rel="noreferrer"
-              className="group flex items-center gap-4 rounded-2xl border border-line bg-ink/60 p-4 text-left transition hover:border-accent/50"
+              social={social}
+              className="group flex cursor-pointer items-center gap-4 rounded-2xl border border-line bg-ink/60 p-4 text-left transition hover:border-accent/50"
             >
-              <span className="grid size-11 place-items-center rounded-xl bg-raised text-zinc-300 transition group-hover:bg-accent group-hover:text-ink">
-                <SocialIcon kind={social.kind} />
-              </span>
-              <span className="flex-1">
-                <span className="block font-semibold text-white">{social.label}</span>
-                <span className="block text-sm text-zinc-500">{social.handle}</span>
-              </span>
-              <ArrowUpRight className="size-5 text-zinc-600 transition group-hover:text-accent" />
-            </a>
+              {(copied) => (
+                <>
+                  <span className="grid size-11 place-items-center rounded-xl bg-raised text-zinc-300 transition group-hover:bg-accent group-hover:text-ink">
+                    <SocialIcon kind={social.kind} />
+                  </span>
+                  <span className="flex-1">
+                    <span className="block font-semibold text-white">{social.label}</span>
+                    <span className="block text-sm text-zinc-500">{copied ? 'Copied to clipboard' : social.handle}</span>
+                  </span>
+                  {social.copy ? (
+                    copied ? (
+                      <Check className="size-5 text-accent" />
+                    ) : (
+                      <Copy className="size-5 text-zinc-600 transition group-hover:text-accent" />
+                    )
+                  ) : (
+                    <ArrowUpRight className="size-5 text-zinc-600 transition group-hover:text-accent" />
+                  )}
+                </>
+              )}
+            </SocialLink>
           ))}
         </div>
       </Reveal>
@@ -44,7 +54,7 @@ export function Footer({ updatedAt, failed }: { updatedAt?: string; failed: bool
   return (
     <footer className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-5 py-10 text-sm text-zinc-600 sm:flex-row">
       <p>
-        © {new Date().getFullYear()} {site.name}. Not affiliated with Roblox Corporation.
+        © {new Date().getFullYear()} {site.fullName}. Not affiliated with Roblox Corporation.
       </p>
       <p className="font-mono text-xs">
         {failed ? 'Stats unavailable' : updatedAt ? `Stats updated ${timeAgo(updatedAt)}` : 'Loading stats…'}

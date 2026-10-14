@@ -1,9 +1,9 @@
 import { motion } from 'motion/react'
-import { ArrowRight } from 'lucide-react'
+import { ArrowRight, Check } from 'lucide-react'
 import { site } from '../config/site'
 import { formatCompact, formatFull, timeAgo } from '../lib/format'
 import type { GameView, Totals } from '../lib/useStats'
-import { CountUp, LiveDot, SocialIcon } from './ui'
+import { CountUp, LiveDot, SocialIcon, SocialLink } from './ui'
 
 const rise = (delay: number) => ({
   initial: { opacity: 0, y: 28 },
@@ -57,25 +57,24 @@ export function Hero({ views, totals, avatarUrl, updatedAt }: HeroProps) {
           </a>
         </motion.div>
         <motion.div {...rise(0.32)} className="mt-10 flex items-center gap-4">
-          <div className="size-12 overflow-hidden rounded-full border border-line bg-raised">
-            {avatarUrl && <img src={avatarUrl} alt="" className="size-full object-cover" />}
+          <div className="grid size-12 place-items-center overflow-hidden rounded-full border border-line bg-raised font-display text-lg font-bold text-accent">
+            {avatarUrl ? <img src={avatarUrl} alt="" className="size-full object-cover" /> : site.name[0]}
           </div>
           <div className="text-sm">
-            <p className="font-semibold text-white">{site.name}</p>
+            <p className="font-semibold text-white">
+              {site.name} <span className="font-normal text-zinc-500">· {site.fullName}</span>
+            </p>
             <p className="text-zinc-500">{site.role}</p>
           </div>
           <div className="ml-2 hidden gap-1 sm:flex">
             {site.socials.map((social) => (
-              <a
+              <SocialLink
                 key={social.kind}
-                href={social.href}
-                target="_blank"
-                rel="noreferrer"
-                aria-label={social.label}
+                social={social}
                 className="grid size-9 place-items-center rounded-full text-zinc-500 transition hover:bg-raised hover:text-white"
               >
-                <SocialIcon kind={social.kind} className="size-4" />
-              </a>
+                {(copied) => (copied ? <Check className="size-4 text-accent" /> : <SocialIcon kind={social.kind} className="size-4" />)}
+              </SocialLink>
             ))}
           </div>
         </motion.div>
@@ -119,7 +118,7 @@ function LivePanel({ views, totals, updatedAt }: { views: GameView[]; totals: To
               </div>
               <div className="min-w-0 flex-1">
                 <div className="flex items-baseline justify-between gap-3 text-sm">
-                  <span className="truncate text-zinc-300">{view.stats!.name}</span>
+                  <span className="truncate text-zinc-300">{view.title}</span>
                   <span className="font-mono text-xs text-white tabular-nums">{formatCompact(view.stats!.playing)}</span>
                 </div>
                 <div className="mt-1.5 h-1 overflow-hidden rounded-full bg-raised">

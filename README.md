@@ -9,7 +9,7 @@ Everything personal lives in `src/config/`:
 | File | What it holds |
 |---|---|
 | `site.ts` | Name, Roblox user ID (for the avatar), tagline, bio, socials, services, skills, GitHub repo |
-| `games.ts` | Each game's place ID, `owned` / `contributed`, role, blurb, tags, optional `peakCcuOverride` |
+| `games.ts` | Each game's place ID and `owned` / `contributed` / `brand`; optional `role`, `blurb`, `tags`, `name` (for games Roblox hides from the public API) and `spotlight` (featured card with a record CCU) |
 | `brands.ts` | Brands and studios for the logo marquee; `logo` can be a path in `public/` |
 
 Game names, thumbnails, icons, visits, favorites, ratings and CCU all come from Roblox automatically.
@@ -24,7 +24,7 @@ Game names, thumbnails, icons, visits, favorites, ratings and CCU all come from 
 
 The live site reads `stats.json` from `raw.githubusercontent.com`, so stats update without redeploying.
 
-Roblox has no API for historical peaks, so tracking starts when the workflow first runs. Set `peakCcuOverride` on a game to show a known earlier peak; the site displays whichever is higher.
+Roblox has no API for historical peaks, so tracked peaks only start when the workflow first runs. The site does not display tracked peaks yet; the record CCU shown comes from `spotlight.peakCcu` in `games.ts`.
 
 ## Local development
 

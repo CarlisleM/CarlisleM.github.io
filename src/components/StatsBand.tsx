@@ -1,13 +1,16 @@
+import { games } from '../config/games'
 import { formatCompact, formatFull } from '../lib/format'
 import type { Totals } from '../lib/useStats'
 import { CountUp, Reveal } from './ui'
 
+const recordCcu = Math.max(0, ...games.map((game) => game.spotlight?.peakCcu ?? 0))
+
 export function StatsBand({ totals }: { totals: Totals }) {
   const cells = [
     { label: 'Total visits', value: totals.visits, format: (v: number) => `${formatCompact(v)}+` },
-    { label: 'Combined peak CCU', value: totals.peak, format: (v: number) => `${formatCompact(v)}+` },
-    { label: 'Favorites', value: totals.favorites, format: (v: number) => `${formatCompact(v)}+` },
-    { label: 'Games shipped', value: totals.count, format: formatFull },
+    { label: 'Record CCU', value: recordCcu, format: formatCompact },
+    { label: 'Playing right now', value: totals.playing, format: formatCompact },
+    { label: 'Games worked on', value: totals.count, format: formatFull },
   ]
 
   return (

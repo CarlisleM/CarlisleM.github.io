@@ -1,10 +1,11 @@
-export type SocialKind = 'discord' | 'x' | 'roblox' | 'linkedin' | 'email'
+export type SocialKind = 'discord' | 'x' | 'roblox' | 'linkedin' | 'github' | 'email'
 
 export type Social = {
   kind: SocialKind
   label: string
   handle: string
-  href: string
+  href?: string
+  copy?: string
 }
 
 export type Service = {
@@ -13,29 +14,41 @@ export type Service = {
   icon: 'code' | 'gamepad' | 'chart' | 'users'
 }
 
-export const site = {
-  name: 'Carlisle',
-  robloxUsername: 'YourRobloxName',
-  robloxUserId: 1,
-  role: 'Roblox Developer & Studio Owner',
+export const site: {
+  name: string
+  fullName: string
+  robloxUserId?: number
+  role: string
+  headline: [string, string, string]
+  tagline: string
+  bio: string[]
+  availability: string
+  github: { owner: string; repo: string }
+  socials: Social[]
+  services: Service[]
+  skills: string[]
+} = {
+  name: 'Kami',
+  fullName: 'Carlisle Miller',
+  role: 'Roblox Developer',
   headline: ['Building Roblox games', 'millions', 'come back to.'],
   tagline:
-    'I design, script and ship Roblox experiences — from core systems and monetization to live ops — for my own studio and for brands.',
+    'I’m Kami — a Roblox developer behind hits like Steal An Egg, brand experiences for Warner Bros., Paramount and Maybelline, and a growing slate of my own games.',
   bio: [
-    'Placeholder bio. Say how long you have been developing on Roblox, what kinds of games you build, and what you are best known for.',
-    'A second paragraph works well for studios, teams and partners you have worked with, and what you are looking for next.',
+    'I’ve worked on more than 25 Roblox games, including Steal An Egg, which peaked at 14.3 million concurrent players — the 4th highest CCU in gaming history.',
+    'Alongside that I build brand integrations and activations for names like Chupa Chups, Zuru, Maybelline, Paramount, Warner Bros. Pictures, Juicy Drop and Regal Cinemas, and develop my own games including Demonbound and Sea Battle!',
   ],
   availability: 'Open to commissions & partnerships',
   github: {
-    owner: 'YOUR_GITHUB_USERNAME',
-    repo: 'YOUR_GITHUB_USERNAME.github.io',
+    owner: 'CarlisleM',
+    repo: 'CarlisleM.github.io',
   },
   socials: [
-    { kind: 'discord', label: 'Discord', handle: '@yourname', href: 'https://discord.com/users/000000000000000000' },
-    { kind: 'x', label: 'X', handle: '@yourname', href: 'https://x.com/yourname' },
-    { kind: 'roblox', label: 'Roblox', handle: '@YourRobloxName', href: 'https://www.roblox.com/users/1/profile' },
-    { kind: 'linkedin', label: 'LinkedIn', handle: 'in/yourname', href: 'https://www.linkedin.com/in/yourname' },
-  ] satisfies Social[],
+    { kind: 'discord', label: 'Discord', handle: 'kamimelee', copy: 'kamimelee' },
+    { kind: 'x', label: 'X', handle: '@KamiMakesGames', href: 'https://x.com/KamiMakesGames' },
+    { kind: 'linkedin', label: 'LinkedIn', handle: 'Carlisle Miller', href: 'https://www.linkedin.com/in/carlisle-miller-b11630172/' },
+    { kind: 'github', label: 'GitHub', handle: 'CarlisleM', href: 'https://github.com/CarlisleM' },
+  ],
   services: [
     {
       icon: 'code',
@@ -57,6 +70,6 @@ export const site = {
       title: 'Brand Experiences',
       description: 'Activations and partner games that hit brand goals and still feel native to Roblox.',
     },
-  ] satisfies Service[],
-  skills: ['Luau', 'Rojo', 'Knit', 'ProfileStore', 'React-lua', 'Blender', 'Game Design', 'Monetization', 'Analytics', 'Team Lead'],
+  ],
+  skills: ['Luau', 'Rojo', 'Knit', 'ProfileStore', 'React-lua', 'Blender', 'Game Design', 'Monetization', 'Analytics', 'Brand Activations'],
 }

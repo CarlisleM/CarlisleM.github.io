@@ -11,17 +11,22 @@ const statsUrl = import.meta.env.DEV
 
 export type GameView = GameEntry & {
   stats?: GameStats
-  peak: number
+  title: string
   url: string
 }
 
 export type Totals = {
   visits: number
-  peak: number
   playing: number
   favorites: number
   count: number
 }
+
+export const cleanGameName = (name: string) =>
+  name
+    .replace(/\[[^\]]*\]/g, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim()
 
 export function useStats() {
   const [data, setData] = useState<StatsFile>()
@@ -53,7 +58,7 @@ export function useStats() {
         return {
           ...game,
           stats,
-          peak: Math.max(stats?.peakCcu ?? 0, game.peakCcuOverride ?? 0),
+          title: game.name ?? (stats ? cleanGameName(stats.name) : data ? 'Unavailable' : 'Loading…'),
           url: `https://www.roblox.com/games/${game.placeId}`,
         }
       }),
@@ -65,12 +70,11 @@ export function useStats() {
       views.reduce(
         (sum, view) => ({
           visits: sum.visits + (view.stats?.visits ?? 0),
-          peak: sum.peak + view.peak,
           playing: sum.playing + (view.stats?.playing ?? 0),
           favorites: sum.favorites + (view.stats?.favorites ?? 0),
           count: sum.count + 1,
         }),
-        { visits: 0, peak: 0, playing: 0, favorites: 0, count: 0 },
+        { visits: 0, playing: 0, favorites: 0, count: 0 },
       ),
     [views],
   )

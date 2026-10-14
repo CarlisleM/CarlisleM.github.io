@@ -5,10 +5,12 @@ export type Brand = {
 }
 
 export const brands: Brand[] = [
-  { name: 'Brand One' },
-  { name: 'Studio Two' },
-  { name: 'Brand Three' },
-  { name: 'Label Four' },
-  { name: 'Company Five' },
-  { name: 'Network Six' },
+  { name: 'Chupa Chups' },
+  { name: 'Zuru' },
+  { name: 'Maybelline' },
+  { name: 'Paramount' },
+  { name: 'Warner Bros. Pictures' },
+  { name: 'Juicy Drop' },
+  { name: 'Regal Cinemas' },
+  { name: 'Littlest Pet Shop' },
 ]
