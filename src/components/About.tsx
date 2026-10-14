@@ -7,7 +7,7 @@ export function About() {
       <SectionHeading index="05" eyebrow="About" title="What I do." />
       <div className="grid gap-14 lg:grid-cols-[0.95fr_1.05fr]">
         <Reveal className="space-y-5 text-lg leading-relaxed text-cream/80">
-          {site.bio.slice(1).map((paragraph) => (
+          {site.bio.map((paragraph) => (
             <p key={paragraph}>{paragraph}</p>
           ))}
           <div className="flex flex-wrap gap-2 pt-3">
