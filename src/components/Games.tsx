@@ -104,14 +104,14 @@ function GameCard({ view, index }: { view: GameView; index: number }) {
         ) : (
           <div className="studs grid size-full place-items-center font-display text-xl font-bold text-muted">{view.title}</div>
         )}
-        <div className="absolute top-3 left-3 flex gap-1.5">
-          <span className="bg-ink px-2 py-1 font-mono text-[10px] font-semibold tracking-widest text-cream uppercase">
-            {ownershipBadge[view.ownership]}
+        {view.misfitsIp && (
+          <span className="absolute top-3 left-3 bg-volt px-2 py-1 font-mono text-[10px] font-semibold tracking-widest text-ink uppercase">
+            Misfits IP
           </span>
-          {view.misfitsIp && (
-            <span className="bg-volt px-2 py-1 font-mono text-[10px] font-semibold tracking-widest text-ink uppercase">Misfits IP</span>
-          )}
-        </div>
+        )}
+        <span className="absolute bottom-3 left-3 bg-ink px-2 py-1 font-mono text-[10px] font-semibold tracking-widest text-cream uppercase">
+          {ownershipBadge[view.ownership]}
+        </span>
         {stats && (
           <span className="absolute right-3 bottom-3 flex items-center gap-2 bg-ink/90 px-2 py-1 font-mono text-[11px] text-cream">
             <LiveDot active={playing > 0} />

@@ -5,6 +5,7 @@ const links = [
   { label: 'Games', href: '#games' },
   { label: 'Partners', href: '#partners' },
   { label: 'Experience', href: '#experience' },
+  { label: 'About', href: '#about' },
   { label: 'Contact', href: '#contact' },
 ]
 
