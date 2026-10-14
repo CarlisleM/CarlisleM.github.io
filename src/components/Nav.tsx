@@ -40,7 +40,7 @@ export function Nav() {
           href="#contact"
           className="rounded-full bg-white px-4 py-2 text-sm font-semibold text-ink transition-colors hover:bg-accent"
         >
-          Work with me
+          Get in touch
         </a>
       </nav>
     </header>

@@ -29,7 +29,7 @@ export function Hero({ views, totals, avatarUrl, updatedAt }: HeroProps) {
           className="mb-7 inline-flex items-center gap-2.5 rounded-full border border-line bg-panel/80 px-3.5 py-1.5 text-xs text-zinc-400"
         >
           <LiveDot />
-          {site.availability}
+          {totals.playing ? `${formatCompact(totals.playing)} players in games I’ve worked on right now` : 'Loading live players…'}
         </motion.div>
         <motion.h1
           {...rise(0.08)}

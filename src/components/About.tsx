@@ -13,7 +13,7 @@ export function About() {
   return (
     <section id="about" className="mx-auto grid max-w-6xl gap-14 px-5 py-28 lg:grid-cols-[0.9fr_1.1fr]">
       <div>
-        <SectionHeading eyebrow="About" title="What I bring to a project" />
+        <SectionHeading eyebrow="About" title="What I do" />
         <Reveal delay={0.1} className="-mt-4 space-y-4 text-lg leading-relaxed text-zinc-400">
           {site.bio.map((paragraph) => (
             <p key={paragraph}>{paragraph}</p>

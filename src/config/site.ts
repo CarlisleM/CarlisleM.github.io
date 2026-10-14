@@ -24,7 +24,6 @@ export const site: {
   headline: [string, string, string]
   tagline: string
   bio: string[]
-  availability: string
   github: { owner: string; repo: string }
   socials: Social[]
   services: Service[]
@@ -44,7 +43,6 @@ export const site: {
     'I’ve worked on more than 25 Roblox games — most of them acquisitions, where I come in as an engineer to help improve and grow them. That includes Steal An Egg, which peaked at 14.3 million concurrent players, the 4th highest CCU in gaming history.',
     'Alongside that I build brand integrations and activations for names like Chupa Chups, Zuru, Maybelline, Paramount, Warner Bros. Pictures, Juicy Drop and Regal Cinemas, and develop my own games including Demonbound and Sea Battle!',
   ],
-  availability: 'Open to commissions & partnerships',
   github: {
     owner: 'CarlisleM',
     repo: 'CarlisleM.github.io',

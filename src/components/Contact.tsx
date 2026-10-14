@@ -10,10 +10,10 @@ export function Contact() {
         <div aria-hidden className="absolute -top-32 left-1/2 h-64 w-[36rem] -translate-x-1/2 rounded-full bg-accent/20 blur-[100px]" />
         <p className="relative font-mono text-xs font-medium tracking-[0.2em] text-accent uppercase">Contact</p>
         <h2 className="relative mx-auto mt-4 max-w-2xl font-display text-4xl font-bold tracking-tight text-balance text-white sm:text-6xl">
-          Got a game that needs building?
+          Let’s talk Roblox.
         </h2>
         <p className="relative mx-auto mt-5 max-w-lg text-lg text-zinc-400">
-          Commissions, partnerships and brand experiences. Discord is the fastest way to reach me.
+          Discord is the fastest way to reach me.
         </p>
         <div className="relative mx-auto mt-10 grid max-w-3xl gap-3 sm:grid-cols-2">
           {site.socials.map((social) => (
