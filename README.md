@@ -41,6 +41,6 @@ npm run dev
 3. Repo **Settings → Pages → Source: GitHub Actions**.
 4. **Actions → Update Roblox stats → Run workflow** once to create the `data` branch.
 
-Pushes to `main` deploy through `.github/workflows/deploy.yml`.
+Pushes to `master` deploy through `.github/workflows/deploy.yml`.
 
 GitHub pauses scheduled workflows in repos with no activity for 60 days. If stats stop updating, re-enable the workflow from the Actions tab.
