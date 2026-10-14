@@ -4,7 +4,7 @@ import { useState } from 'react'
 import type { Ownership } from '../config/games'
 import { formatCompact, formatRating } from '../lib/format'
 import type { GameView } from '../lib/useStats'
-import { LiveDot, SectionHeading, easeOut } from './ui'
+import { GameArt, LiveDot, SectionHeading, easeOut } from './ui'
 
 type Filter = 'all' | Exclude<Ownership, 'integration'>
 
@@ -95,16 +95,7 @@ function GameCard({ view, index }: { view: GameView; index: number }) {
       className="group flex flex-col border-2 border-line bg-panel transition-[translate,box-shadow,border-color] duration-200 hover:-translate-x-1 hover:-translate-y-1 hover:border-cream hover:shadow-[6px_6px_0_0_var(--color-volt)]"
     >
       <div className="relative aspect-video overflow-hidden border-b-2 border-line bg-raised transition-colors group-hover:border-cream">
-        {stats?.thumbnailUrl ? (
-          <img
-            src={stats.thumbnailUrl}
-            alt=""
-            loading="lazy"
-            className="size-full object-cover transition-transform duration-700 group-hover:scale-105"
-          />
-        ) : (
-          <div className="studs grid size-full place-items-center font-display text-xl font-bold text-muted">{view.title}</div>
-        )}
+        <GameArt view={view} className="transition-transform duration-700 group-hover:scale-105" />
         {view.misfitsIp && (
           <span className="absolute top-3 left-3 bg-volt px-2 py-1 font-mono text-[10px] font-semibold tracking-widest text-ink uppercase">
             Misfits IP

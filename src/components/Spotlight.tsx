@@ -1,7 +1,7 @@
 import { ArrowUpRight } from 'lucide-react'
 import { formatCompact, formatRating } from '../lib/format'
 import type { GameView } from '../lib/useStats'
-import { CountUp, LiveDot, Reveal, SectionHeading } from './ui'
+import { CountUp, GameArt, LiveDot, Reveal, SectionHeading } from './ui'
 
 export function Spotlight({ views }: { views: GameView[] }) {
   const featured = views.filter((view) => view.spotlight)
@@ -27,13 +27,9 @@ function SpotlightCard({ view }: { view: GameView }) {
     <Reveal>
       <div className="grid border-2 border-cream bg-panel shadow-[10px_10px_0_0_var(--color-volt)] lg:grid-cols-[1.15fr_0.85fr]">
         <a href={view.url} target="_blank" rel="noreferrer" className="group relative block aspect-video overflow-hidden bg-raised lg:aspect-auto lg:min-h-[440px]">
-          {stats?.thumbnailUrl && (
-            <img
-              src={stats.thumbnailUrl}
-              alt=""
-              className="absolute inset-0 size-full object-cover transition-transform duration-700 group-hover:scale-105"
-            />
-          )}
+          <div className="absolute inset-0">
+            <GameArt view={view} className="transition-transform duration-700 group-hover:scale-105" />
+          </div>
           <span className="absolute top-4 left-4 flex items-center gap-2 border-2 border-ink bg-cream px-3 py-1 font-mono text-xs font-semibold text-ink">
             <LiveDot active={(stats?.playing ?? 0) > 0} />
             {formatCompact(stats?.playing ?? 0)} playing now

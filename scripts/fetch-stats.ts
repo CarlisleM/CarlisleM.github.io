@@ -43,6 +43,8 @@ async function optional<T>(request: Promise<T>, fallback: T): Promise<T> {
   }
 }
 
+const approvedUrl = (image?: RobloxImage) => (image?.state === 'Completed' && image.imageUrl ? image.imageUrl : undefined)
+
 function chunks<T>(items: T[], size: number): T[][] {
   const result: T[][] = []
   for (let i = 0; i < items.length; i += size) result.push(items.slice(i, i + size))
@@ -129,8 +131,8 @@ async function main() {
 
   const detailById = new Map(details.map((game) => [game.id, game]))
   const votesById = new Map(votes.map((vote) => [vote.id, vote]))
-  const iconById = new Map(icons.map((icon) => [icon.targetId, icon.imageUrl]))
-  const thumbnailById = new Map(thumbnails.map((entry) => [entry.universeId, entry.thumbnails[0]?.imageUrl]))
+  const iconById = new Map(icons.map((icon) => [icon.targetId, approvedUrl(icon)]))
+  const thumbnailById = new Map(thumbnails.map((entry) => [entry.universeId, approvedUrl(entry.thumbnails[0])]))
 
   const nextGames: Record<string, GameStats> = {}
   for (const [placeId, universeId] of universeByPlace) {
@@ -154,8 +156,8 @@ async function main() {
       downVotes: vote?.downVotes ?? previous?.downVotes ?? 0,
       created: game.created,
       updated: game.updated,
-      iconUrl: iconById.get(universeId) ?? previous?.iconUrl,
-      thumbnailUrl: thumbnailById.get(universeId) ?? previous?.thumbnailUrl,
+      iconUrl: iconById.has(universeId) ? iconById.get(universeId) : previous?.iconUrl,
+      thumbnailUrl: thumbnailById.has(universeId) ? thumbnailById.get(universeId) : previous?.thumbnailUrl,
       peakCcu: isNewPeak ? playing : (previous?.peakCcu ?? 0),
       peakCcuAt: isNewPeak ? now : (previous?.peakCcuAt ?? now),
       history: upsertHistory(previous?.history ?? [], today, playing, game.visits),

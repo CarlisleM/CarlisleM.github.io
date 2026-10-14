@@ -2,7 +2,7 @@ import { ArrowUpRight } from 'lucide-react'
 import { brands, creatorCollab, type Partner } from '../config/partners'
 import { formatCompact } from '../lib/format'
 import type { GameView } from '../lib/useStats'
-import { Reveal, SectionHeading } from './ui'
+import { GameArt, Reveal, SectionHeading } from './ui'
 
 export function Partners({ views }: { views: GameView[] }) {
   const byPlace = new Map(views.map((view) => [view.placeId, view]))
@@ -42,7 +42,7 @@ export function Partners({ views }: { views: GameView[] }) {
                 className="group border-2 border-line bg-ink transition-[translate,box-shadow,border-color] hover:-translate-y-1 hover:border-cream hover:shadow-[5px_5px_0_0_var(--color-cream)]"
               >
                 <div className="aspect-video overflow-hidden bg-raised">
-                  {view.stats?.thumbnailUrl && <img src={view.stats.thumbnailUrl} alt="" loading="lazy" className="size-full object-cover" />}
+                  <GameArt view={view} />
                 </div>
                 <div className="p-3">
                   <span className="block truncate font-display text-sm font-bold text-cream">{view.title}</span>

@@ -3,6 +3,7 @@ import { Mail } from 'lucide-react'
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import type { Social, SocialKind } from '../config/site'
 import { formatFull } from '../lib/format'
+import type { GameView } from '../lib/useStats'
 
 export const easeOut = [0.16, 1, 0.3, 1] as const
 
@@ -116,6 +117,27 @@ function Digit({ digit }: { digit: number }) {
         ))}
       </span>
     </span>
+  )
+}
+
+export function GameArt({ view, className = '' }: { view: GameView; className?: string }) {
+  const [failedSrc, setFailedSrc] = useState<string>()
+  const thumbnail = view.stats?.thumbnailUrl
+  const icon = view.stats?.iconUrl
+
+  if (thumbnail && failedSrc !== thumbnail) {
+    return <img src={thumbnail} alt="" loading="lazy" onError={() => setFailedSrc(thumbnail)} className={`size-full object-cover ${className}`} />
+  }
+
+  return (
+    <div className={`studs relative grid size-full place-items-center overflow-hidden bg-raised ${className}`}>
+      {icon && <img src={icon} alt="" aria-hidden className="absolute inset-0 size-full scale-125 object-cover opacity-35 blur-2xl" />}
+      {icon ? (
+        <img src={icon} alt="" className="relative aspect-square w-[34%] -rotate-3 border-2 border-cream shadow-[5px_5px_0_0_var(--color-volt)]" />
+      ) : (
+        <span className="relative px-6 text-center font-display text-xl font-bold text-muted">{view.title}</span>
+      )}
+    </div>
   )
 }
 
