@@ -29,6 +29,7 @@ export const games: GameEntry[] = [
   { placeId: 77780955683759, ownership: 'owned' },
   { placeId: 108442042267736, ownership: 'owned' },
   { placeId: 124822748780975, ownership: 'owned' },
+  { placeId: 113748320871272, ownership: 'owned' },
 
   { placeId: 105011592530400, ownership: 'contributed' },
   { placeId: 94640181989498, ownership: 'contributed' },
